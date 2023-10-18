@@ -32,13 +32,15 @@ This week we focus on images and on how computers see them. We take a dive in th
 
 # Can computers "see" the world?
 
+![](fas fa-eye fa-6x)
+
 note:
 No, but they can process images of the world in ways that are useful and sometimes resemble the ways in which we see the world.
 
 
 ---
-
-
+<!-- slide bg="#2b1804" -->
+# The road ahead
 > [!example] In today's lecture:  
 > 1. Brief history of computer vision
 > 2. Interpreting images ― Husky Lens demo
@@ -51,6 +53,8 @@ No, but they can process images of the world in ways that are useful and sometim
 
 # 1. Computer Vision
 ## ultra short history of a field
+
+![](fas fa-robot fa-6x)
 
 ---
 
@@ -191,6 +195,8 @@ Geoffrey Hinton, Ilya Sutskever, and Alex Krizhevsky from the University of Toro
 # 2. Interpreting images
 ## How does it work?
 
+![](fas fa-image fa-6x)
+
 ---
 
 ## Break images into tiny pieces
@@ -250,6 +256,8 @@ If you need transparency you need one more channel (alpha)
 # 3. Self-supervision
 ## Connecting text and images
 
+![](fas fa-plug fa-6x)
+
 ---
 
 
@@ -280,6 +288,8 @@ note:
 <!-- slide bg="#304f5e" -->
 # 4. Synthesising Images
 ## text-to-image UX
+
+![](far fa-keyboard fa-6x)
 
 ---
 
@@ -316,6 +326,20 @@ note:
 ---
 # Can <u>*we*</u> see the world <u>*through*</u> computers?
 
+![](fas fa-camera fa-6x)
+
+---
+<!-- slide bg="#2b1804" -->
+# The road behind
+
+> [!tip] In summary:
+> 1. Computers do not see the world but can process images of the world
+> 2. Computers process images pixel by pixel, as number arrays
+> 3. Computers are trained to process images for specific tasks
+> 4. They can also be trained to connect words and images
+> 5. This connection allows us to synthesise images from text inputs
+
 ---
 
 # Questions?
+![](far fa-question-circle fa-6x)
