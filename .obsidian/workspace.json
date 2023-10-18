@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w4-machine-vision.md",
+                "file": "source_slides/w4-machine-vision_sem.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "98a13edf92d16828",
+        "id": "daadbbd8d533cea4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce1cbdb1b4872698",
+            "id": "acd4f293028f87cc",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w4-machine-vision.md",
+                "file": "source_slides/w4-machine-vision_sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w4-machine-vision.md",
+                "file": "source_slides/w4-machine-vision_sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w4-machine-vision.md"
+                "file": "source_slides/w4-machine-vision_sem.md"
               }
             }
           }
@@ -169,8 +169,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "71fe9d78aa36fbce",
+  "active": "5e166b9cc5f9d819",
   "lastOpenFiles": [
+    "source_slides/w4-machine-vision.md",
+    "source_slides/w4-machine-vision_sem.md",
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
@@ -181,7 +183,6 @@
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
     "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
-    "rendered/w2-machine-learning/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
     "rendered/w2-machine-learning/plugin/chalkboard/img/whiteboard.png",
     "rendered/w2-machine-learning/plugin/chalkboard/img/sponge.png",
     "rendered/w2-machine-learning/plugin/chalkboard/img/chalk-yellow.png",
@@ -203,7 +204,6 @@
     "rendered/w4-machine-vision/plugin/menu/CONTRIBUTING.md",
     "rendered/w4-machine-vision/plugin/menu/README.md",
     "source_slides/B3_2.md",
-    "source_slides/w4-machine-vision.md",
     "media/Computational_ekphrasis_v0.3/CLIP.png.md",
     "teaching/7AAVCD42/_index.md",
     "teaching/7AAVCD42/W2-machine-learning/_index.md",
