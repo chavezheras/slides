@@ -84,10 +84,10 @@ This week we focus on images and on how computers see them. We take a dive in th
 
 > [!example] Step by step guide:  
 > 1. Sort yourselves into teams of 4-5 (no more!) and decide on a team name
-> 2. Open this spreadsheet (also on KEATS)
+> 2. Open [this spreadsheet](https://emckclac-my.sharepoint.com/:x:/g/personal/k2259416_kcl_ac_uk/EfHxHraH79NMsPEN8hQhqdMBX9razfzrDG9pdsyTQW_vlQ?e=1ruYwo) (also on KEATS)
 > 3. Find your seminar group in the tabs at the bottom
-> 4. Write the name for your team in one of the spaces under the cell called "teams" (only one of you needs to do this).
-> 5. Find your name and chose your team using the drop down menu in the cell next to it.
+> 4. Write the name for your team in one of the spaces under the cell called "Team name" in one of the red cells (only one of you needs to do this).
+> 5. Find your name and chose your team number using the drop down menu in column C.
 
 
 ---
