@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w4-machine-vision_sem.md",
+                "file": "source_slides/w4-machine-vision-sem.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "bf00cff5d33ec2ba",
+        "id": "ccc443c9ec8f2489",
         "type": "tabs",
         "children": [
           {
-            "id": "6dea41bb00f723e5",
+            "id": "9ab686c9ae24f7d7",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w4-machine-vision_sem.md",
+                "file": "source_slides/w4-machine-vision-sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w4-machine-vision_sem.md",
+                "file": "source_slides/w4-machine-vision-sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w4-machine-vision_sem.md"
+                "file": "source_slides/w4-machine-vision-sem.md"
               }
             }
           }
@@ -169,8 +169,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "71fe9d78aa36fbce",
+  "active": "9ab686c9ae24f7d7",
   "lastOpenFiles": [
+    "rendered/w4-machine-vision-sem/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "rendered/w4-machine-vision-sem/assets/images",
+    "rendered/w4-machine-vision-sem/assets",
+    "rendered/w4-machine-vision-sem/plugin",
+    "rendered/w4-machine-vision-sem/dist",
+    "rendered/w4-machine-vision-sem/css",
+    "rendered/w4-machine-vision-sem/index.html",
+    "rendered/w4-machine-vision-sem",
     "rendered/w4-machine-vision_sem/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
     "rendered/w4-machine-vision_sem/assets/images",
     "rendered/w4-machine-vision_sem/assets",
@@ -185,20 +193,12 @@
     "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-red.png",
     "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-yellow.png",
     "rendered/w4-machine-vision_sem/plugin/chalkboard/img/chalk-blue.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/chalk-green.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/style.css",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/plugin.js",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/plugin (copy).js",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard",
     "rendered/w4-machine-vision_sem/plugin/chart/README.md",
-    "rendered/w4-machine-vision_sem/plugin/chart/plugin.js",
-    "rendered/w4-machine-vision_sem/plugin/chart/chart.min.js",
     "rendered/w4-machine-vision_sem/plugin/customcontrols/README.md",
     "rendered/w4-machine-vision_sem/plugin/menu/CONTRIBUTING.md",
     "rendered/w4-machine-vision_sem/plugin/menu/README.md",
     "source_slides/w4-machine-vision.md",
-    "source_slides/w4-machine-vision_sem.md",
+    "source_slides/w4-machine-vision-sem.md",
     "rendered/w2-machine-learning/plugin/menu/README.md",
     "rendered/w2-machine-learning/plugin/menu/CONTRIBUTING.md",
     "rendered/w2-machine-learning/plugin/customcontrols/README.md",
