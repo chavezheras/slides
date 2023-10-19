@@ -4,7 +4,7 @@ draft: false
 tags:
   - presentation
 date_created: 18 Oct 2023
-date_modified: 18 Oct 2023
+date_modified: 19 Oct 2023
 margin: 0
 width: 1920
 height: 1200
@@ -32,44 +32,65 @@ This week we focus on images and on how computers see them. We take a dive in th
 
 # Seminar activities
 > [!example] In today's seminar:  
-> 1. Critical machine vision exercise (30 mins)
+> 1. Seeing like a machine exercise (30 mins)
 > 2. Organise into teams for your research projects (15 mins)
 
 
 ---
 
-# 1. Critical machine vision exercise
-![](fas fa-tasks fa-6x)
+# 1. Seeing like a machine exercise 
+![](fas fa-tasks fa-4x)
+
+---
+#### Watch this video
+#### In pairs, answer the questions below
+<iframe src="https://player.vimeo.com/video/693680467?h=68d0589b23&portrait=0" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+> [!question] Questions:
+> 1. Can you identify the four different computer vision tasks represented in this clip?
+> 2. What is the computer trained to pay attention in each? What does it ignore?
+> 3. Can you think of applications for each of these tasks?
+
+
+---
+#### Watch this video
+#### In pairs, answer the questions below
+
+<iframe src="https://player.vimeo.com/video/274059579?h=3e4ae0f3c3&title=0&byline=0&portrait=0" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+> [!question] Question:
+> Is this computer vision system performing correctly?
+> How do you think it was modified?
+> Why do you think it was modified?
+
+---
+
+#### Watch this video
+#### In pairs, answer the questions below
+
+<iframe src="https://player.vimeo.com/video/260781748?h=21d76cbfdd&title=0&byline=0&portrait=0" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+> [!question] Questions:
+> How has this computer vision system been modified?
+> How does each modification change your perception/understanding of the underlying video?
 
 
 ---
 
-<i class="fas fa-tasks fa-4x fa-pull-left fa-border"></i>
-1. Watch this short film about seeing the world through images.
-2. In pairs, select from the following options, watch these and discuss 
-3. 
-4. 
-5. <!-- .element: style="font-size: 46px" align="justify" -->
-
----
-
-
-# Can computers "see" the world?
-
-![](fas fa-eye fa-6x)
-
-note:
-No, but they can process images of the world in ways that are useful and sometimes resemble the ways in which we see the world.
+# 2. Organise into teams
+![](fas fa-tasks fa-4x)
 
 
 ---
-<!-- slide bg="#2b1804" -->
-# The road ahead
-> [!example] In today's lecture:  
-> 1. Brief history of computer vision
-> 2. Interpreting images ― Husky Lens demo
-> 3. Self-supervision / contrastive learning ― CSNI demo    
-> 4. Synthesising images ― Dream Studio demo
-> 5. Questions
+
+> [!example] Step by step guide:  
+> 1. Sort yourselves into teams of 4-5 (no more!) and decide on a team name
+> 2. Open this spreadsheet (also on KEATS)
+> 3. Find your seminar group in the tabs at the bottom
+> 4. Write the name for your team in one of the spaces under the cell called "teams" (only one of you needs to do this).
+> 5. Find your name and chose your team using the drop down menu in the cell next to it.
+
 
 ---
+<!-- slide bg="#304f5e" -->
+# Questions?
+![](far fa-question-circle fa-6x)
