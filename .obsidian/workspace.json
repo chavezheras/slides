@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "ccc443c9ec8f2489",
+        "id": "c2cfd2e21e668037",
         "type": "tabs",
         "children": [
           {
-            "id": "9ab686c9ae24f7d7",
+            "id": "9ae02fef9c8065f7",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -169,7 +169,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9ab686c9ae24f7d7",
+  "active": "71fe9d78aa36fbce",
   "lastOpenFiles": [
     "rendered/w4-machine-vision-sem/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
     "rendered/w4-machine-vision-sem/assets/images",
