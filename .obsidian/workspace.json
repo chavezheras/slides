@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "296a81640cfa9886",
+        "id": "61c5833bf4e4e625",
         "type": "tabs",
         "children": [
           {
-            "id": "71fe9d78aa36fbce",
+            "id": "9c511c379b676f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w4-machine-vision-sem.md",
+                "file": "source_slides/w8-faces-identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "402d0f3984e40581",
+        "id": "4f7b91ae2795d9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "07dd87f509eeac54",
+            "id": "d017c7ddb3a39d37",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w4-machine-vision-sem.md",
+                "file": "source_slides/w8-faces-identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w4-machine-vision-sem.md",
+                "file": "source_slides/w8-faces-identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w4-machine-vision-sem.md"
+                "file": "source_slides/w8-faces-identities.md"
               }
             }
           }
@@ -169,53 +169,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "71fe9d78aa36fbce",
+  "active": "9c511c379b676f08",
   "lastOpenFiles": [
-    "rendered/w4-machine-vision-sem/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
-    "rendered/w4-machine-vision-sem/assets/images",
-    "rendered/w4-machine-vision-sem/assets",
-    "rendered/w4-machine-vision-sem/plugin",
-    "rendered/w4-machine-vision-sem/dist",
-    "rendered/w4-machine-vision-sem/css",
-    "rendered/w4-machine-vision-sem/index.html",
-    "rendered/w4-machine-vision-sem",
-    "rendered/w4-machine-vision_sem/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
-    "rendered/w4-machine-vision_sem/assets/images",
-    "rendered/w4-machine-vision_sem/assets",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/whiteboard.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/sponge.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-yellow.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-white.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-red.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-purple.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-orange.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-green.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-blue.png",
+    "rendered/w8-faces-identitties/plugin/chalkboard/img/boardmarker-yellow.png",
+    "rendered/w8-faces-identitties/plugin/menu/README.md",
+    "rendered/w8-faces-identitties/plugin/menu/CONTRIBUTING.md",
+    "rendered/w8-faces-identitties/plugin/customcontrols/README.md",
+    "rendered/w8-faces-identitties/plugin/chart/README.md",
+    "rendered/w8-faces-identitties/plugin/chalkboard/README.md",
+    "rendered/w8-faces&identitties/plugin/chalkboard/README.md",
+    "rendered/w8-faces&identitties/plugin/chart/README.md",
+    "rendered/w8-faces&identitties/plugin/customcontrols/README.md",
+    "rendered/w8-faces&identitties/plugin/menu/CONTRIBUTING.md",
+    "rendered/w8-faces&identitties/plugin/menu/README.md",
+    "source_slides/w4-machine-vision.md",
+    "source_slides/w4-machine-vision-sem.md",
+    "source_slides/w8-faces-identities.md",
+    "source_slides/fas.md",
     "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/_style.css",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/blackboard.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-black.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-blue.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-green.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-orange.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-purple.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-red.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/boardmarker-yellow.png",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/img/chalk-blue.png",
     "rendered/w4-machine-vision_sem/plugin/chart/README.md",
     "rendered/w4-machine-vision_sem/plugin/customcontrols/README.md",
     "rendered/w4-machine-vision_sem/plugin/menu/CONTRIBUTING.md",
     "rendered/w4-machine-vision_sem/plugin/menu/README.md",
-    "source_slides/w4-machine-vision.md",
-    "source_slides/w4-machine-vision-sem.md",
     "rendered/w2-machine-learning/plugin/menu/README.md",
     "rendered/w2-machine-learning/plugin/menu/CONTRIBUTING.md",
     "rendered/w2-machine-learning/plugin/customcontrols/README.md",
     "rendered/w2-machine-learning/plugin/chart/README.md",
     "rendered/w2-machine-learning/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision/plugin/chart/README.md",
-    "rendered/w4-machine-vision/plugin/customcontrols/README.md",
-    "rendered/w4-machine-vision/plugin/menu/CONTRIBUTING.md",
-    "rendered/w4-machine-vision/plugin/menu/README.md",
-    "source_slides/B3_2.md",
-    "media/Computational_ekphrasis_v0.3/CLIP.png.md",
-    "teaching/7AAVCD42/_index.md",
-    "teaching/7AAVCD42/W2-machine-learning/_index.md",
-    "public_notes/EINA/index.md",
-    "public_notes/export/creanalytics/plugin/menu/README.md",
-    "public_notes/export/creanalytics/plugin/menu/CONTRIBUTING.md",
-    "public_notes/export/creanalytics/plugin/customcontrols/README.md"
+    "rendered/w4-machine-vision/plugin/chalkboard/README.md"
   ]
 }
