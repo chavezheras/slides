@@ -367,6 +367,15 @@ a different game space altogether
 
 ---
 
+![[media/68c69a758601dcafb8b7845dfbb50110_MD5.png]]
+
+Read [more about Nightshade](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/), and here is the [preprint paper](https://arxiv.org/abs/2310.13828).
+
+note:
+Ben Zhao, a professor at the University of Chicago
+
+---
+
 <iframe width="1080" height="720" src="https://www.youtube.com/embed/nyu4u3VZYaQ?si=0Ec9wwerxEPiZDzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
