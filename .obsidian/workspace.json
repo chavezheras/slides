@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w8-faces-identities.md",
+                "file": "source_slides/w9-creativity-authorship.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "4f7b91ae2795d9b6",
+        "id": "5b089833ee2ebbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "d017c7ddb3a39d37",
+            "id": "060cbe26e9727889",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w8-faces-identities.md",
+                "file": "source_slides/w9-creativity-authorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w8-faces-identities.md",
+                "file": "source_slides/w9-creativity-authorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w8-faces-identities.md"
+                "file": "source_slides/w9-creativity-authorship.md"
               }
             }
           }
@@ -169,29 +169,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9c511c379b676f08",
+  "active": "060cbe26e9727889",
   "lastOpenFiles": [
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
-    "rendered/w8-faces-identitties/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/whiteboard.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/sponge.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-yellow.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-white.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-red.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-purple.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-orange.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-green.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/chalk-blue.png",
-    "rendered/w8-faces-identitties/plugin/chalkboard/img/boardmarker-yellow.png",
+    "rendered/w9-creativity-authorship/media/bde18c7244031a03d3e5220e28842479_MD5.png",
+    "rendered/w9-creativity-authorship/media/be10663c9f5ab92a67f42e9ea61ded56_MD5.png",
+    "rendered/w9-creativity-authorship/media/f5e6cf622709b97717847ff74c7b9595_MD5.png",
+    "rendered/w9-creativity-authorship/media/5484f9dceb113a6c3ef1d6a42c6e9f4e_MD5.png",
+    "rendered/w9-creativity-authorship/media/a31fa66a6fdd64c1107220794c17dde0_MD5.png",
+    "rendered/w9-creativity-authorship/media/50bbdf11e17b65a21cf6ad4c05b5bcbf_MD5.png",
+    "rendered/w9-creativity-authorship/media/9340bb7c4cbe459e8287fbadede1e792_MD5.png",
+    "rendered/w9-creativity-authorship/media/60b62268e2ac60d9043dac29ac92a067_MD5.png",
+    "rendered/w9-creativity-authorship/media/a4984f231d0708b4df946647656ba96f_MD5.png",
+    "rendered/w9-creativity-authorship/media/2bb5866dcaf02f3f0ef24dc0f6183da9_MD5.png",
+    "rendered/w9-creativity-authorship/media/09706a435f9c0e4805dbfda75c6bc85f_MD5.png",
+    "rendered/w9-creativity-authorship/media",
+    "rendered/w9-creativity-authorship/assets/images",
+    "rendered/w9-creativity-authorship/assets",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/_style.css",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/img",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/plugin (copy).js",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/style.css",
+    "rendered/w9-creativity-authorship/plugin/chalkboard/plugin.js",
+    "rendered/w9-creativity-authorship/plugin/chalkboard",
+    "rendered/w9-creativity-authorship/plugin/chart/README.md",
+    "rendered/w9-creativity-authorship/plugin/chart/plugin.js",
+    "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
+    "rendered/w9-creativity-authorship/plugin/menu/CONTRIBUTING.md",
+    "rendered/w9-creativity-authorship/plugin/menu/README.md",
+    "source_slides/w8-faces-identities.md",
+    "source_slides/w9-creativity-authorship.md",
     "rendered/w8-faces-identitties/plugin/menu/README.md",
     "rendered/w8-faces-identitties/plugin/menu/CONTRIBUTING.md",
     "rendered/w8-faces-identitties/plugin/customcontrols/README.md",
@@ -204,18 +211,11 @@
     "rendered/w8-faces&identitties/plugin/menu/README.md",
     "source_slides/w4-machine-vision.md",
     "source_slides/w4-machine-vision-sem.md",
-    "source_slides/w8-faces-identities.md",
     "source_slides/fas.md",
     "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md",
     "rendered/w4-machine-vision_sem/plugin/chart/README.md",
     "rendered/w4-machine-vision_sem/plugin/customcontrols/README.md",
     "rendered/w4-machine-vision_sem/plugin/menu/CONTRIBUTING.md",
-    "rendered/w4-machine-vision_sem/plugin/menu/README.md",
-    "rendered/w2-machine-learning/plugin/menu/README.md",
-    "rendered/w2-machine-learning/plugin/menu/CONTRIBUTING.md",
-    "rendered/w2-machine-learning/plugin/customcontrols/README.md",
-    "rendered/w2-machine-learning/plugin/chart/README.md",
-    "rendered/w2-machine-learning/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision/plugin/chalkboard/README.md"
+    "rendered/w4-machine-vision_sem/plugin/menu/README.md"
   ]
 }

@@ -7,3 +7,4 @@
 - [Week 4 Lecture ― Seeing like a machine](rendered/w4-machine-vision)
 - [Week 4 Seminar](rendered/w4-machine-vision-sem)
 - [Week 8 Lecture ― Faces and Identitities](rendered/w8-faces-identitties)
+- [Week 9 Lecture ― Creativity and Authorship](rendered/w9-creativity-authorship)
