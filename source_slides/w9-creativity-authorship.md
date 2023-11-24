@@ -361,7 +361,7 @@ a different game space altogether
 
 ---
 
->We place a premium on the new, not because it is new, but because by definition it is scarce. The effects AI will have in scarcity rather than originality is what concerns artists, illustrators, and creative workers, for they rightly sense a radical transformation in the political economy of visual culture, from having a market for their creative labour, to this market being shocked through new kinds of machines machines made of images. 
+>We place a premium on the new not because it is new, but because by definition it is scarce. The effects AI is having in scarcity rather than originality are what concerns artists, illustrators, and creative workers. They rightly sense a radical transformation in the political economy of visual culture, from having a market for their creative labour, to this market being shocked through new kinds of machines made of images. 
 
 \- D Chávez Heras, 2024
 
