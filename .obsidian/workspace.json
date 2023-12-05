@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "61c5833bf4e4e625",
+        "id": "7cba9d59992e9ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "9c511c379b676f08",
+            "id": "4d9fed0457784a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w9-creativity-authorship.md",
+                "file": "source_slides/Counting_the_invisible.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b315c46b528ae5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8b13bd431218dc2",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w9-creativity-authorship.md",
+                "file": "source_slides/Counting_the_invisible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w9-creativity-authorship.md",
+                "file": "source_slides/Counting_the_invisible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w9-creativity-authorship.md"
+                "file": "source_slides/Counting_the_invisible.md"
               }
             }
           }
@@ -169,11 +155,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9c511c379b676f08",
+  "active": "4d9fed0457784a77",
   "lastOpenFiles": [
-    "rendered/w9-creativity-authorship/media/2bb5866dcaf02f3f0ef24dc0f6183da9_MD5.png",
+    "media/c5ae21e26d6913b3ed3de5dd6914538c_MD5.png",
+    "media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png",
+    "media/1b6f7654d4598ff853b7700210883084_MD5.png",
+    "media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png",
+    "media/6eadda773154800b7605f1708aec3fe1_MD5.png",
+    "media/46ff8796887a813b083c83026462362d_MD5.png",
+    "media/e6c2d3fa234272e0696cfedc939ff1a1_MD5.png",
+    "20231205_120255_Page_1(1).png",
+    "media/10c0140b4434057191078bf483dabced_MD5.png",
+    "source_slides/B3_1.md",
+    "source_slides/Counting_the_invisible.md",
+    "media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg",
+    "media/599f364553168e0448c2566cb33d0c94_MD5.png",
+    "source_slides/w4-machine-vision.md",
+    "source_slides/fas.md",
+    "source_slides/w9-creativity-authorship.md",
+    "templates/slides_template.md",
+    "templates",
     "rendered/w9-creativity-authorship/media",
-    "rendered/w9-creativity-authorship/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
     "rendered/w9-creativity-authorship/assets/images",
     "rendered/w9-creativity-authorship/assets",
     "rendered/w9-creativity-authorship/plugin",
@@ -181,24 +183,13 @@
     "rendered/w9-creativity-authorship/css",
     "rendered/w9-creativity-authorship/index.html",
     "rendered/w9-creativity-authorship",
-    "media/68c69a758601dcafb8b7845dfbb50110_MD5.png",
-    "media/48dedb5b82e9f1bede8bdc69c6365f29_MD5.png",
-    "rendered/w9-creativity-authorship/media/bde18c7244031a03d3e5220e28842479_MD5.png",
-    "rendered/w9-creativity-authorship/media/be10663c9f5ab92a67f42e9ea61ded56_MD5.png",
-    "rendered/w9-creativity-authorship/media/f5e6cf622709b97717847ff74c7b9595_MD5.png",
-    "rendered/w9-creativity-authorship/media/5484f9dceb113a6c3ef1d6a42c6e9f4e_MD5.png",
-    "rendered/w9-creativity-authorship/media/a31fa66a6fdd64c1107220794c17dde0_MD5.png",
-    "rendered/w9-creativity-authorship/media/50bbdf11e17b65a21cf6ad4c05b5bcbf_MD5.png",
-    "rendered/w9-creativity-authorship/media/9340bb7c4cbe459e8287fbadede1e792_MD5.png",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
     "rendered/w9-creativity-authorship/plugin/chalkboard/_style.css",
-    "rendered/w9-creativity-authorship/plugin/chalkboard/img",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
     "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
     "rendered/w9-creativity-authorship/plugin/menu/CONTRIBUTING.md",
     "rendered/w9-creativity-authorship/plugin/menu/README.md",
     "source_slides/w8-faces-identities.md",
-    "source_slides/w9-creativity-authorship.md",
     "rendered/w8-faces-identitties/plugin/menu/README.md",
     "rendered/w8-faces-identitties/plugin/menu/CONTRIBUTING.md",
     "rendered/w8-faces-identitties/plugin/customcontrols/README.md",
@@ -209,13 +200,8 @@
     "rendered/w8-faces&identitties/plugin/customcontrols/README.md",
     "rendered/w8-faces&identitties/plugin/menu/CONTRIBUTING.md",
     "rendered/w8-faces&identitties/plugin/menu/README.md",
-    "source_slides/w4-machine-vision.md",
     "source_slides/w4-machine-vision-sem.md",
-    "source_slides/fas.md",
     "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision_sem/plugin/chart/README.md",
-    "rendered/w4-machine-vision_sem/plugin/customcontrols/README.md",
-    "rendered/w4-machine-vision_sem/plugin/menu/CONTRIBUTING.md",
-    "rendered/w4-machine-vision_sem/plugin/menu/README.md"
+    "rendered/w4-machine-vision_sem/plugin/chart/README.md"
   ]
 }
