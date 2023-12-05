@@ -27,16 +27,12 @@ King's College London, December 2023
 
 note:
 Thank you to Joanna for the invitation and introduction.
-And to the centre for attention studies.
+And to the centre for attention studies for hosting us this evening.
 I am delighted to be here.
 
 ---
 
 
-<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/Children%20of%20Men%20Opening%20Scene_15_clip.mp4"
-          data-background-video-loop data-background-video-muted>
-          text here
-</section>
 
 note:
 _Can machines see?_
@@ -52,13 +48,11 @@ To understand how machines are said to see on our behalf, it makes sense to expl
 
 At the same time, this emphasis on technical practice helps us to critically intervene in the design and redesign of machine vision, and to enter into more meaningful collaborations with disciplines in science and engineering.
 
-This is, in a nutshell, the topic of my forthcoming book about Cinema and Machine Vision
+This is, in a nutshell, the topic of my forthcoming book about _Cinema and Machine Vision_
 
 ---
 
----
-
-![[media/cc401ce7147269ccc668f4b3d364b528_MD5.png]]
+![[media/cc401ce7147269ccc668f4b3d364b528_MD5.png|700]]
 
 note:
 In my book I focus on moving images: artefacts in and of motion that structure cognitive and affective responses in their audiences.
@@ -68,7 +62,6 @@ In this talk I will focus on two chapters in which I discuss philosophies of tim
 ---
 
 ![](fas fa-quote-left fa-2x)
-
 
 
 >One might expect the spectator to be overcome by a physical discomfort akin to sea-
@@ -93,6 +86,7 @@ Films are made of a number of small and fragmented recordings, that when organis
 
 
 
+
 note:
 One part of the answer is that this ability to watch films was learned over time. It was not always the case that we knew how to interpret a close up, for example. On screen you see one of the earliest recordings of a close ups in a film. 
 _Grandma's Reading Glass_ (c.1900) by George Albert Smith.
@@ -102,14 +96,14 @@ At the time, the close up was a technical novelty. These early films are demonst
 ---
 
 
-![[media/71efe22f312e3f76e247f72f0e7f3e00_MD5.png]]
+![[media/71efe22f312e3f76e247f72f0e7f3e00_MD5.png|1500]]
 
 note:
 Using computer vision, we can enlist computers to see these images in our behalf to find some of the patterns that emerge from conventional narrative techniques. For example the shot-reverse-shot, commonly used to depict conversations between characters. Using face detection, it is possible to get a sense of how cinematic discourse is constructed through editing: from wider shots that establish the relations between characters and their environment, progressively in...
 
 ---
 
-![[media/95145a7104d332087db98530f2d0c248_MD5.png]]
+![[media/95145a7104d332087db98530f2d0c248_MD5.png|1500]]
 
 
 note:
@@ -118,7 +112,7 @@ note:
 ---
 
 
-![[rendered/creanalytics/assets/images/schot_scale_detector.jpg]]
+![[rendered/creanalytics/assets/images/schot_scale_detector.jpg|1500]]
 
 note:
 By detecting faces, a basic ratio calculation between bounding boxes and frame size can be used as a proxy for shot scale, thus creating a shot scale detector, that can extend this computational exploration of film style to cover large collections of moving images, like film archives and online video platforms.
@@ -126,15 +120,20 @@ By detecting faces, a basic ratio calculation between bounding boxes and frame s
 ---
 
 
-![[rendered/B3_2/media/shot_scale_chart.jpeg]]
+![[rendered/B3_2/media/shot_scale_chart.jpeg|1500]]
 
 note:
 And this in turn opens the door to different kinds of statistical analysis along the lines of how stylometry is applied to text to perform distant reading of literary collections by essentially different forms of counting words in a corpus. On screen you see a breakdown by shot scale of a corpus of ~2700 clips of 350 popular Hollywood films, released between 1931 and 2019, from 287 unique directors.
 
 ---
 
-![[media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg]]
-Image by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Social Media / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
+          data-background-video-loop data-background-video-muted>
+</section>
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
+          data-background-video-loop data-background-video-muted>
+</section>
+
 
 note:
 Yet, this is only a partial answer to the question of how we make sense of moving images. The complementary part comes into play as we realise that cinematic time is both **actual** and **imagined**, a **recording** as much as a **synthesis** of time. Cinematic time arises when fragmented recordings are arranged to structure viewing, such that the visible is presented on screen in ways that allow audiences to infer the invisible that is off-screen.
@@ -167,15 +166,15 @@ note:
 
 ---
 
-![[media/6eadda773154800b7605f1708aec3fe1_MD5.png]]
+![[media/6eadda773154800b7605f1708aec3fe1_MD5.png|1500]]
 
 note:
 per-frame difference time series
 
 ---
 
-![[media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png]]
-![[media/1b6f7654d4598ff853b7700210883084_MD5.png]]
+![[media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png|1500]]
+![[media/1b6f7654d4598ff853b7700210883084_MD5.png|1500]]
 
 note:
 maximum and minimum differences between frames
@@ -198,14 +197,14 @@ note:
 
 ---
 
-![[media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png]]
+![[media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png|1500]]
 
 note:
 
 
 ---
 
-![[media/551c8233a5b674d700d7431d3610fbec_MD5.png]]
+![[media/551c8233a5b674d700d7431d3610fbec_MD5.png|1500]]
 
 note:
 These differences over time are perceived are perceived, interpreted, and felt, even if they are not consciously processed. T
@@ -232,6 +231,11 @@ Katherine Hayles' _Cognitive Nonconscious_
 
 ---
 
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_BG_plant.mp4"
+          data-background-video-loop data-background-video-muted>
+</section>
+
+
 note:
 This is the epistemic bargain at the heart of machine vision: 
 in order to step back and look at film at a distance, one needs to first step 
@@ -257,67 +261,3 @@ past of cinema, under an algorithmic governance of the visual.
 
 ---
 
-
-<section data-background-video="https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4" 
-          data-background-video-loop data-background-video-muted>
-  <h2>Video</h2>
-</section>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ho05y9IMr4?si=lsyvSrA7rvS9UNdB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
----
-
-<!-- slide bg="#304f5e" -->
-
-# 2. Point two
-## subtitle
-
-![](fas fa-copyright fa-4x)
-
-
----
-
-
-<!-- slide bg="#304f5e" -->
-
-# 3. Point three
-## subtitle
-
-![](fab fa-creative-commons fa-4x)
-
-
-
----
-
-## Side by side images
-### evenly split
-
-<split even gap=3>
-
-![[media/a31fa66a6fdd64c1107220794c17dde0_MD5.png|450]]
-
-![[media/5484f9dceb113a6c3ef1d6a42c6e9f4e_MD5.png|450]]
-
-</split>
-
-[International Conference of Computational Creativity](https://computationalcreativity.net/home/)
-
-
----
-<!-- slide bg="#2b1804" -->
-# Summary call out
-
-> [!tip] In summary:
-> 1. Conclusion one
-> 2. Conclusion two
-> 3. Conclusion three
-
-
-
----
-
-# Questions?
-![](far fa-question-circle fa-4x)

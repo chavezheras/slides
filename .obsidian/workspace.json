@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "dc074afbf9818a75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02f3e5b5b9b65bb3",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +155,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "02f3e5b5b9b65bb3",
+  "active": "f4952f668cafa303",
   "lastOpenFiles": [
+    "assets/gpu_anim_bg.mp4",
+    "assets/rings_animation.mp4",
+    "assets/machine_vision_BG.mp4",
+    "assets/Grandmas_Reading_Glass_1900.mp4",
+    "assets/Grandma's Reading Glass - George Albert Smith - 1900.mp4",
+    "assets/cinema_machine_vision_BG.mp4",
     "assets/runway_ml_BG_plant.mp4",
     "assets/runway_ml_bg.mp4",
     "assets/Children of Men - The Court of the Crimson King 1080p HD_49_clip.mp4",
     "assets/Children of Men Opening Scene_15_clip.mp4",
     "assets/Gen-2 3699825091, the plant grows, plantjpeg, cam_R 2, cam_Z -3.mp4",
-    "assets/Gen-2 680081801, the character types , 9ab5f3eda45d1e86da3b, cam_R 25, cam_Z -4.mp4",
     "source_slides/B3_1.md",
     "source_slides/B3_2.md",
     "source_slides/Counting_the_invisible.md",
@@ -194,11 +185,6 @@
     "source_slides/fas.md",
     "source_slides/w9-creativity-authorship.md",
     "templates/slides_template.md",
-    "templates",
-    "rendered/w9-creativity-authorship/media",
-    "rendered/w9-creativity-authorship/assets/images",
-    "rendered/w9-creativity-authorship/assets",
-    "rendered/w9-creativity-authorship/plugin",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
     "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
