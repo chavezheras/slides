@@ -33,6 +33,10 @@ I am delighted to be here.
 ---
 
 
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/Children%20of%20Men%20Opening%20Scene_15_clip.mp4"
+          data-background-video-loop data-background-video-muted>
+          text here
+</section>
 
 note:
 _Can machines see?_
@@ -51,11 +55,6 @@ At the same time, this emphasis on technical practice helps us to critically int
 This is, in a nutshell, the topic of my forthcoming book about Cinema and Machine Vision
 
 ---
-
-<section data-background-video="https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4" 
-          data-background-video-loop data-background-video-muted>
-  <h2>Video</h2>
-</section>
 
 ---
 
@@ -92,10 +91,6 @@ Films are made of a number of small and fragmented recordings, that when organis
 
 ---
 
-<section data-background-video="[https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4](https://youtu.be/6ho05y9IMr4)" 
-          data-background-video-loop data-background-video-muted>
-  <h2>Video</h2>
-</section>
 
 
 note:
@@ -138,8 +133,8 @@ And this in turn opens the door to different kinds of statistical analysis along
 
 ---
 
-[something here](<![[media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg]]
-%3Cspan%3EImage by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Social Media / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>>)
+![[media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg]]
+Image by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Social Media / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>
 
 note:
 Yet, this is only a partial answer to the question of how we make sense of moving images. The complementary part comes into play as we realise that cinematic time is both **actual** and **imagined**, a **recording** as much as a **synthesis** of time. Cinematic time arises when fragmented recordings are arranged to structure viewing, such that the visible is presented on screen in ways that allow audiences to infer the invisible that is off-screen.
@@ -166,7 +161,7 @@ I'm going to show you a clip.
 
 ---
 
-COM clip show
+<iframe src="https://player.vimeo.com/video/891638449?h=04f28f14e2&title=0&byline=0&portrait=0" width="1500" height="813" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 note:
 
@@ -197,8 +192,7 @@ I'm going to show you a clip
 
 ---
 
-
-COM clip 2 show
+<iframe src="https://player.vimeo.com/video/891639772?h=ca398e90d7&title=0&byline=0&portrait=0" width="1500" height="816" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 note:
 
@@ -262,6 +256,12 @@ while prompting us to reimagine the future and, more tantalising still, the
 past of cinema, under an algorithmic governance of the visual.
 
 ---
+
+
+<section data-background-video="https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4" 
+          data-background-video-loop data-background-video-muted>
+  <h2>Video</h2>
+</section>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ho05y9IMr4?si=lsyvSrA7rvS9UNdB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

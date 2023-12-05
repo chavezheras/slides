@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "dc074afbf9818a75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f3e5b5b9b65bb3",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +169,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f4952f668cafa303",
+  "active": "02f3e5b5b9b65bb3",
   "lastOpenFiles": [
+    "assets/runway_ml_BG_plant.mp4",
+    "assets/runway_ml_bg.mp4",
     "assets/Children of Men - The Court of the Crimson King 1080p HD_49_clip.mp4",
     "assets/Children of Men Opening Scene_15_clip.mp4",
     "assets/Gen-2 3699825091, the plant grows, plantjpeg, cam_R 2, cam_Z -3.mp4",
@@ -183,8 +199,6 @@
     "rendered/w9-creativity-authorship/assets/images",
     "rendered/w9-creativity-authorship/assets",
     "rendered/w9-creativity-authorship/plugin",
-    "rendered/w9-creativity-authorship/dist",
-    "rendered/w9-creativity-authorship/css",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
     "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
