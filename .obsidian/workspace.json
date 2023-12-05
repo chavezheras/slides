@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cba9d59992e9ca5",
+        "id": "f6017db9a952dd09",
         "type": "tabs",
         "children": [
           {
-            "id": "4d9fed0457784a77",
+            "id": "f4952f668cafa303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 396.5
   },
   "right": {
     "id": "68b602590885c4c8",
@@ -155,8 +155,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4d9fed0457784a77",
+  "active": "f4952f668cafa303",
   "lastOpenFiles": [
+    "assets/Children of Men - The Court of the Crimson King 1080p HD_49_clip.mp4",
+    "assets/Children of Men Opening Scene_15_clip.mp4",
+    "assets/Gen-2 3699825091, the plant grows, plantjpeg, cam_R 2, cam_Z -3.mp4",
+    "assets/Gen-2 680081801, the character types , 9ab5f3eda45d1e86da3b, cam_R 25, cam_Z -4.mp4",
+    "source_slides/B3_1.md",
+    "source_slides/B3_2.md",
+    "source_slides/Counting_the_invisible.md",
+    "media/551c8233a5b674d700d7431d3610fbec_MD5.png",
     "media/c5ae21e26d6913b3ed3de5dd6914538c_MD5.png",
     "media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png",
     "media/1b6f7654d4598ff853b7700210883084_MD5.png",
@@ -166,10 +174,6 @@
     "media/e6c2d3fa234272e0696cfedc939ff1a1_MD5.png",
     "20231205_120255_Page_1(1).png",
     "media/10c0140b4434057191078bf483dabced_MD5.png",
-    "source_slides/B3_1.md",
-    "source_slides/Counting_the_invisible.md",
-    "media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg",
-    "media/599f364553168e0448c2566cb33d0c94_MD5.png",
     "source_slides/w4-machine-vision.md",
     "source_slides/fas.md",
     "source_slides/w9-creativity-authorship.md",
@@ -181,10 +185,7 @@
     "rendered/w9-creativity-authorship/plugin",
     "rendered/w9-creativity-authorship/dist",
     "rendered/w9-creativity-authorship/css",
-    "rendered/w9-creativity-authorship/index.html",
-    "rendered/w9-creativity-authorship",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
-    "rendered/w9-creativity-authorship/plugin/chalkboard/_style.css",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
     "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
     "rendered/w9-creativity-authorship/plugin/menu/CONTRIBUTING.md",
@@ -201,7 +202,6 @@
     "rendered/w8-faces&identitties/plugin/menu/CONTRIBUTING.md",
     "rendered/w8-faces&identitties/plugin/menu/README.md",
     "source_slides/w4-machine-vision-sem.md",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md",
-    "rendered/w4-machine-vision_sem/plugin/chart/README.md"
+    "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md"
   ]
 }
