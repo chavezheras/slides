@@ -1,2 +1,2 @@
 # talks.github.io
-Slides for talks and conferences
+JS Slides for talks, lectures, and conferences

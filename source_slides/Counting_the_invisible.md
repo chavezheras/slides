@@ -1,10 +1,10 @@
 ---
 title: Counting the Invisible
-draft: true
+draft: false
 tags:
   - presentation
 date_created: 29 Nov 2023
-date_modified: 29 Nov 2023
+date_modified: 06 Dec 2023
 margin: 0
 width: 1920
 height: 1200
@@ -12,7 +12,9 @@ transition: slide
 theme: black
 date: 29 Nov 2023
 ---
-
+<section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
+          data-background-video-loop data-background-video-muted data-background-opacity=.2>
+</section>
 
 # Counting the Invisible
 ## The emergence of datamatic time
@@ -32,7 +34,9 @@ I am delighted to be here.
 
 ---
 
-
+<section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
+          data-background-video-loop data-background-video-muted>
+</section>
 
 note:
 _Can machines see?_
@@ -84,6 +88,10 @@ Films are made of a number of small and fragmented recordings, that when organis
 
 ---
 
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/Grandmas_Reading_Glass_1900.mp4"
+          data-background-video-loop data-background-video-muted>
+</section>
+
 
 
 
@@ -127,10 +135,10 @@ And this in turn opens the door to different kinds of statistical analysis along
 
 ---
 
-<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/gpu_anim_bg.mp4"
           data-background-video-loop data-background-video-muted>
 </section>
-<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/gpu_anim_bg.mp4"
           data-background-video-loop data-background-video-muted>
 </section>
 
@@ -231,7 +239,7 @@ Katherine Hayles' _Cognitive Nonconscious_
 
 ---
 
-<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_BG_plant.mp4"
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
           data-background-video-loop data-background-video-muted>
 </section>
 
@@ -261,3 +269,4 @@ past of cinema, under an algorithmic governance of the visual.
 
 ---
 
+<!-- slide bg="#304f5e" -->

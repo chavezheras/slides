@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "f9b4ec7a6ad57280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2fe924eabf83a3",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,35 +169,40 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f4952f668cafa303",
+  "active": "1b2fe924eabf83a3",
   "lastOpenFiles": [
-    "assets/gpu_anim_bg.mp4",
-    "assets/rings_animation.mp4",
-    "assets/machine_vision_BG.mp4",
-    "assets/Grandmas_Reading_Glass_1900.mp4",
-    "assets/Grandma's Reading Glass - George Albert Smith - 1900.mp4",
-    "assets/cinema_machine_vision_BG.mp4",
-    "assets/runway_ml_BG_plant.mp4",
-    "assets/runway_ml_bg.mp4",
-    "assets/Children of Men - The Court of the Crimson King 1080p HD_49_clip.mp4",
-    "assets/Children of Men Opening Scene_15_clip.mp4",
-    "assets/Gen-2 3699825091, the plant grows, plantjpeg, cam_R 2, cam_Z -3.mp4",
+    "rendered/Counting_the_invisible/media/599f364553168e0448c2566cb33d0c94_MD5.png",
+    "rendered/Counting_the_invisible/media/551c8233a5b674d700d7431d3610fbec_MD5.png",
+    "rendered/Counting_the_invisible/media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png",
+    "rendered/Counting_the_invisible/media/46ff8796887a813b083c83026462362d_MD5.png",
+    "rendered/Counting_the_invisible/media/1b6f7654d4598ff853b7700210883084_MD5.png",
+    "rendered/Counting_the_invisible/media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png",
+    "rendered/Counting_the_invisible/media/6eadda773154800b7605f1708aec3fe1_MD5.png",
+    "rendered/Counting_the_invisible/media/e6c2d3fa234272e0696cfedc939ff1a1_MD5.png",
+    "rendered/Counting_the_invisible/rendered/B3_2/media/shot_scale_chart.jpeg",
+    "rendered/Counting_the_invisible/rendered/B3_2/media",
+    "rendered/Counting_the_invisible/rendered/B3_2",
+    "rendered/Counting_the_invisible/rendered/creanalytics/assets/images/schot_scale_detector.jpg",
+    "rendered/Counting_the_invisible/rendered/creanalytics/assets/images",
+    "rendered/Counting_the_invisible/rendered/creanalytics/assets",
+    "rendered/Counting_the_invisible/rendered/creanalytics",
+    "rendered/Counting_the_invisible/rendered",
+    "rendered/Counting_the_invisible/media/95145a7104d332087db98530f2d0c248_MD5.png",
+    "rendered/Counting_the_invisible/media",
+    "rendered/Counting_the_invisible/assets/images",
+    "rendered/Counting_the_invisible/assets",
+    "rendered/Counting_the_invisible/plugin/chalkboard/README.md",
+    "rendered/Counting_the_invisible/plugin/chalkboard/_style.css",
+    "rendered/Counting_the_invisible/plugin/chart/README.md",
+    "rendered/Counting_the_invisible/plugin/customcontrols/README.md",
+    "rendered/Counting_the_invisible/plugin/menu/CONTRIBUTING.md",
+    "rendered/Counting_the_invisible/plugin/menu/README.md",
+    "source_slides/w9-creativity-authorship.md",
+    "source_slides/Counting_the_invisible.md",
     "source_slides/B3_1.md",
     "source_slides/B3_2.md",
-    "source_slides/Counting_the_invisible.md",
-    "media/551c8233a5b674d700d7431d3610fbec_MD5.png",
-    "media/c5ae21e26d6913b3ed3de5dd6914538c_MD5.png",
-    "media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png",
-    "media/1b6f7654d4598ff853b7700210883084_MD5.png",
-    "media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png",
-    "media/6eadda773154800b7605f1708aec3fe1_MD5.png",
-    "media/46ff8796887a813b083c83026462362d_MD5.png",
-    "media/e6c2d3fa234272e0696cfedc939ff1a1_MD5.png",
-    "20231205_120255_Page_1(1).png",
-    "media/10c0140b4434057191078bf483dabced_MD5.png",
     "source_slides/w4-machine-vision.md",
     "source_slides/fas.md",
-    "source_slides/w9-creativity-authorship.md",
     "templates/slides_template.md",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
@@ -197,11 +216,6 @@
     "rendered/w8-faces-identitties/plugin/chart/README.md",
     "rendered/w8-faces-identitties/plugin/chalkboard/README.md",
     "rendered/w8-faces&identitties/plugin/chalkboard/README.md",
-    "rendered/w8-faces&identitties/plugin/chart/README.md",
-    "rendered/w8-faces&identitties/plugin/customcontrols/README.md",
-    "rendered/w8-faces&identitties/plugin/menu/CONTRIBUTING.md",
-    "rendered/w8-faces&identitties/plugin/menu/README.md",
-    "source_slides/w4-machine-vision-sem.md",
-    "rendered/w4-machine-vision_sem/plugin/chalkboard/README.md"
+    "rendered/w8-faces&identitties/plugin/chart/README.md"
   ]
 }
