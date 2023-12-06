@@ -36,9 +36,8 @@ I am delighted to be here.
 
 <section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
           data-background-video-loop data-background-video-muted>
-</section>
-
 note:
+
 _Can machines see?_
 I would say no; they cannot.
 
@@ -53,6 +52,9 @@ To understand how machines are said to see on our behalf, it makes sense to expl
 At the same time, this emphasis on technical practice helps us to critically intervene in the design and redesign of machine vision, and to enter into more meaningful collaborations with disciplines in science and engineering.
 
 This is, in a nutshell, the topic of my forthcoming book about _Cinema and Machine Vision_
+</section>
+
+
 
 ---
 
@@ -215,9 +217,9 @@ note:
 ![[media/551c8233a5b674d700d7431d3610fbec_MD5.png|1500]]
 
 note:
-These differences over time are perceived are perceived, interpreted, and felt, even if they are not consciously processed. T
+These differences over time are perceived, interpreted, and felt, even if they are not consciously processed.
 
-Is not that we "see" these images in our minds eye, but rather that these images are used a proxy to visualise perceptual change. 
+Is not that we "see" these images in our minds eye, but rather that these images can used a proxy to visualise perceptual change. A kind of computational phenomenology of moving images.
 
 ---
 

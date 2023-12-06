@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "f9b4ec7a6ad57280",
+        "id": "2830cb18bd12c8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1b2fe924eabf83a3",
+            "id": "e5d183eaafadd0cb",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -169,7 +169,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b2fe924eabf83a3",
+  "active": "f4952f668cafa303",
   "lastOpenFiles": [
     "rendered/Counting_the_invisible/media/599f364553168e0448c2566cb33d0c94_MD5.png",
     "rendered/Counting_the_invisible/media/551c8233a5b674d700d7431d3610fbec_MD5.png",
