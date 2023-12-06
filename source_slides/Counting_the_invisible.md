@@ -14,6 +14,11 @@ date: 29 Nov 2023
 ---
 <section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
           data-background-video-loop data-background-video-muted data-background-opacity=.2>
+          <aside class="notes">
+          <p>Thank you to Joanna for the invitation and introduction.
+And to the centre for attention studies for hosting us this evening.
+I am delighted to be here.</p>
+          </aside>
 </section>
 
 # Counting the Invisible
@@ -27,32 +32,35 @@ date: 29 Nov 2023
 
 King's College London, December 2023
 
-note:
-Thank you to Joanna for the invitation and introduction.
-And to the centre for attention studies for hosting us this evening.
-I am delighted to be here.
+
 
 ---
 
-<section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
-          data-background-video-loop data-background-video-muted>
-note:
 
-_Can machines see?_
-I would say no; they cannot.
+<section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4" data-background-video-loop data-background-video-muted>
 
-At the same time, we see through machines all the time. Machines allowed us to see the world around us in ways that our senses alone cannot.
+
+<h2 class="r-fit-text">== · Machines made of images ·  ==</h2>
+
+  <aside class="notes">
+   <p> _Can machines see?_
+<p>I would say no; they cannot.
+
+<p>At the same time, we see through machines all the time. Machines allowed us to see the world around us in ways that our senses alone cannot.
 In this way, human vision is embedded in machines, and machine vision in turn reshapes what we can see and how, expanding our visual faculties in one direction by contracting it in another.
 
-I don't think is controversial for this audience to say that our worldviews are technically mediated, and they have been for a very long time. Philosophy, and especially aesthetics, has been keenly aware of this for at least a couple of centuries.
-Computer vision is part of this longer history of technical reshaping of the visual. From painting to photography to cinema.
+<p>I don't think is controversial for this audience to say that our worldviews are technically mediated, and they have been for a very long time. Philosophy, and especially aesthetics, has been keenly aware of this for at least a couple of centuries.
+Computer vision is part of a longer history of technical reshaping of the visual. From painting to photography to cinema.
 
-To understand how machines are said to see on our behalf, it makes sense to explore machine vision through the lens of technologies of vision, the kinds of images these technologies afford, and the audiences these images create.
+<p>To understand how machines are said to see on our behalf, it makes sense to explore machine vision through the lens of technologies of vision, the kinds of images these technologies afford, and the audiences these images create.
 
-At the same time, this emphasis on technical practice helps us to critically intervene in the design and redesign of machine vision, and to enter into more meaningful collaborations with disciplines in science and engineering.
+<p>At the same time, this emphasis on technical practice helps us to critically intervene in the design and redesign of machine vision, and to enter into more meaningful collaborations with disciplines in science and engineering.
 
-This is, in a nutshell, the topic of my forthcoming book about _Cinema and Machine Vision_
+<p>This is, in a nutshell, the topic of my forthcoming book about _Cinema and Machine Vision_
+  </aside>
+
 </section>
+
 
 
 
@@ -92,16 +100,12 @@ Films are made of a number of small and fragmented recordings, that when organis
 
 <section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/Grandmas_Reading_Glass_1900.mp4"
           data-background-video-loop data-background-video-muted>
+    <aside class="notes">
+          <p>One part of the answer is that this ability to watch films was learned over time. It was not always the case that we knew how to interpret a close up, for example. On screen you see one of the earliest recordings of a close ups in a film. 
+		<p>_Grandma's Reading Glass_ (c.1900) by George Albert Smith.
+		<p>At the time, the close up was a technical novelty. These early films are demonstrations of technology more than anything else. Through social exposure and continued use over time, techniques like the close up became formal conventions ― the pieces in a larger aesthetic apparatus of cinema.
+     </aside>
 </section>
-
-
-
-
-note:
-One part of the answer is that this ability to watch films was learned over time. It was not always the case that we knew how to interpret a close up, for example. On screen you see one of the earliest recordings of a close ups in a film. 
-_Grandma's Reading Glass_ (c.1900) by George Albert Smith.
-
-At the time, the close up was a technical novelty. These early films are demonstrations of technology more than anything else. Through social exposure and continued use over time, techniques like the close up became formal conventions ― the pieces in a larger aesthetic apparatus of cinema.
 
 ---
 
@@ -137,22 +141,17 @@ And this in turn opens the door to different kinds of statistical analysis along
 
 ---
 
+
 <section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/gpu_anim_bg.mp4"
           data-background-video-loop data-background-video-muted>
+          <h2 class="r-fit-text">== · Zooming in... · ==</h2>
+          <aside class="notes">
+          <p>Yet, this is only a partial answer to the question of how we make sense of moving images. The complementary part comes into play as we realise that cinematic time is both **actual** and **imagined**, a **recording** as much as a **synthesis** of time. Cinematic time arises when fragmented recordings are arranged to structure viewing, such that the visible is presented on screen in ways that allow audiences to infer the invisible that is off-screen.
+          <p>At its heart, this is the temporal and epistemic trade off struck by cinema: it reveals by withholding; it narrates by selectively keeping events from us. Cinema constructs a visible structure that allows us to imagine an invisible one.
+          <p>This invisible structure is less understood, and certainly less present in how machine vision is currently designed. My argument here is that to teach machines how to see, we need to train them not only on large collections of visible images, but also on large collections of invisible ones.
+          <p>At this point you might be thinking that I am drifting into obscure philosophical terrains. But I want to persuade you that I am in fact zooming in and narrowing the scope of machine vision to a finite set of basic possible relations between images.
+          </aside>
 </section>
-<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/gpu_anim_bg.mp4"
-          data-background-video-loop data-background-video-muted>
-</section>
-
-
-note:
-Yet, this is only a partial answer to the question of how we make sense of moving images. The complementary part comes into play as we realise that cinematic time is both **actual** and **imagined**, a **recording** as much as a **synthesis** of time. Cinematic time arises when fragmented recordings are arranged to structure viewing, such that the visible is presented on screen in ways that allow audiences to infer the invisible that is off-screen.
-
-At its heart, this is the temporal bargain struck by cinema: it reveals by withholding; it narrates by selectively keeping events from us. Cinema constructs a visible structure that allows us to imagine an invisible one.
-
-This invisible structure is less understood, and certainly less present in how machine vision is currently designed. My argument here is that to teach machines how to see, we need to train them not only on large collections of visible images, but also on large collections of invisible ones.
-
-At this point you might be thinking that I am drifting into obscure philosophical terrains. But I want to persuade you that I am in fact zooming in and narrowing the scope of machine vision to a finite set of basic possible relations between images.
 
 ---
 
@@ -234,7 +233,7 @@ Is not that we "see" these images in our minds eye, but rather that these images
 note:
 Soviet montage theorists, from Kuleshov to Pudovkin to Eisenstein, argued that that cinematic time is produced when filmmakers design an imagined relation between shots. And from this perspective, every shot presents the filmmaker with an opportunity to break and re-couple time and space in ways that create particular aesthetic effects.
 
-The experiments I present here suggest the interaction between local, regional and global differences, that together structure how we perceive, interpret and understand moving images.
+The experiments I present here suggest rich between local, regional and global temporal differences that together give a structural perceptual base to visual understanding and interpretation. Something closely related to:
 
 Walter Benjamin's _Optical Unconscious_
 Katherine Hayles' _Cognitive Nonconscious_
@@ -243,15 +242,35 @@ Katherine Hayles' _Cognitive Nonconscious_
 
 <section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/runway_ml_bg.mp4"
           data-background-video-loop data-background-video-muted>
+          <aside class="notes">
+        <p>Pixels on the other hand float freely; one cannot say that any pixel is in 
+a strong relation with any other. They can be moved, rearranged, gener-
+ated, and regenerated to fit any design; their representational powers are 
+derived from the fact that they can be made to be contiguous in any direc-
+tion and that such contiguity is always contingent. Pixels have no internal 
+temporal form we can understand or relate to; their flow is unbound. But 
+just like frames were once photographs, the argument I present here is 
+that we simply have not yet created the temporal forms that can endow the free flow of pixels with the strong relations necessary for aesthetic significance. 
+
+<p>I invite you to reconsider the assumption of human vision as a benchmark for 
+machine vision, taking an important lesson from film and media studies 
+to understand how human vision is already technically mediated, and 
+showed how this mediation in turn structures our diverse ways of seeing 
+at given historical junctures. It follows that in training computers to watch 
+films we are simultaneously training ourselves to watch like computers. In seeking to model computationally what moves us about moving images, we are compelled to think and feel through a new kind of machinery. 
+
+<p>So where does this leave cinematic time. From a generative perspective, motion is not fragmented into a sequence of individual frames, but rather any one frame already contains the potential to release motion. The cinematic gives way to the datamatic, and datamatic time is not segmented and analysed, but predicted and synthesised.
+
+<p>From an arts and humanities perspective, the question extends well 
+beyond the analysis of films using deep learning methods. A computa-
+tional spectatorship of film ought to include the new temporal structures 
+that are emerging through the mass adoption of these technologies, all the 
+while prompting us to reimagine the future and, more tantalising still, the 
+past of cinema, under an algorithmic governance of the visual.</aside>
 </section>
 
 
-note:
-This is the epistemic bargain at the heart of machine vision: 
-in order to step back and look at film at a distance, one needs to first step 
-close and look at it in the eye; in order to automatically extract one has to 
-manually model. But herein also lies the great promise of machine vision: 
-to make data not only of the images that were recorded, but also of how they were recorded, and seen, and by whom.
+
 
 
 ---
@@ -260,15 +279,30 @@ to make data not only of the images that were recorded, but also of how they wer
 
 
 note:
-So where does this leave cinematic time. From a generative perspective, motion is not fragmented into a sequence of individual frames, but rather any one frame already contains the potential to release motion. The cinematic gives way to the datamatic, and datamatic time is not segmented and analysed, but predicted and synthesised.
 
-From an arts and humanities perspective, the question extends well 
-beyond the analysis of films using deep learning methods. A computa-
-tional spectatorship of film ought to include the new temporal structures 
-that are emerging through the mass adoption of these technologies, all the 
-while prompting us to reimagine the future and, more tantalising still, the 
-past of cinema, under an algorithmic governance of the visual.
+This is the epistemic bargain at the heart of machine vision: 
+in order to step back and look at film at a distance, one needs to first step 
+close and look at it in the eye; in order to automate vision, one first has to engage in modelling; one needs to sculpt time with computers. 
+
+And herein also lies the great promise of machine vision: to make data not only of the images that were recorded, but also of how they were recorded, what links these images together, what the kinds of relations that govern them between the frames.
+
+Machine vision has a long way to go, we have not yet learned how to commit machine to specific version of events. Data-points float freely and reorganise elastically, creating 
+contingent patterns of proximity upon which inferences are made and decisions taken. These patterns might be there, but the relations they suggest between points are always contingent; they can easily be made to suggest other proximities, other patterns, and other structures, and be presented all at once again and again, creating rational illusions in the 
+process.
+
+Proximities like these are not binding in the way events organised in a timeline are. Narrative events, as I have argued, are not only contiguous but continuous; each event is affected by the previous ones and weighs heavily on the ones that follow, their ordering and rhythms  matter a great deal, and make each event bound to the others in powerful ways. This quality is useful to both epistemics and aesthetics; the types of relations created by continuity qualify beliefs, committing contingent facts and events into strong relations that are understood and cannot be easily undone. These relations of necessity elicit in us the especial kind of _attention_ and memory that we reserve only for that which we believe can _last_.
+
+Aesthetics is slower but empowering because it provides a line of flight, an agenda for a critical form of machine vision in which we learn to see through the eyes of others across time and space without erasing the others, the time, or the space in the process.
+
+Contrary to popular discourse, the kind of encodings and data needed to make machine vision aesthetically sensitive is not abundant or easily found. I have made the case today for a vast space in the computational phenomenology and poetics of film that remains significantly unexplored.
+
+Machine vision aesthetics need to be invented.
+
+If you want to know more, read my book.
+
 
 ---
 
 <!-- slide bg="#304f5e" -->
+
+
