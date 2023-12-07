@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4952f668cafa303",
+            "id": "4e647ece1a121e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/Counting_the_invisible.md",
+                "file": "source_slides/w11-AI-narratives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018d9f68b169e65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source_slides/w9-creativity-authorship.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +34,11 @@
         ]
       },
       {
-        "id": "6bdf3ca28d2aee60",
+        "id": "58d6dd27686437de",
         "type": "tabs",
         "children": [
           {
-            "id": "09389f70b02b984b",
+            "id": "9417da3aac4bd1eb",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/Counting_the_invisible.md",
+                "file": "source_slides/w11-AI-narratives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/Counting_the_invisible.md",
+                "file": "source_slides/w11-AI-narratives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/Counting_the_invisible.md"
+                "file": "source_slides/w11-AI-narratives.md"
               }
             }
           }
@@ -169,53 +181,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f4952f668cafa303",
+  "active": "9417da3aac4bd1eb",
   "lastOpenFiles": [
-    "rendered/Counting_the_invisible/media/599f364553168e0448c2566cb33d0c94_MD5.png",
-    "rendered/Counting_the_invisible/media/551c8233a5b674d700d7431d3610fbec_MD5.png",
-    "rendered/Counting_the_invisible/media/58987a2c91411a384f9fa1c3d2cf520e_MD5.png",
-    "rendered/Counting_the_invisible/media/46ff8796887a813b083c83026462362d_MD5.png",
-    "rendered/Counting_the_invisible/media/1b6f7654d4598ff853b7700210883084_MD5.png",
-    "rendered/Counting_the_invisible/media/01ce7b517f3d95f7945d55ae2ea9f70f_MD5.png",
-    "rendered/Counting_the_invisible/media/6eadda773154800b7605f1708aec3fe1_MD5.png",
-    "rendered/Counting_the_invisible/media/e6c2d3fa234272e0696cfedc939ff1a1_MD5.png",
-    "rendered/Counting_the_invisible/rendered/B3_2/media/shot_scale_chart.jpeg",
-    "rendered/Counting_the_invisible/rendered/B3_2/media",
-    "rendered/Counting_the_invisible/rendered/B3_2",
-    "rendered/Counting_the_invisible/rendered/creanalytics/assets/images/schot_scale_detector.jpg",
-    "rendered/Counting_the_invisible/rendered/creanalytics/assets/images",
-    "rendered/Counting_the_invisible/rendered/creanalytics/assets",
-    "rendered/Counting_the_invisible/rendered/creanalytics",
-    "rendered/Counting_the_invisible/rendered",
-    "rendered/Counting_the_invisible/media/95145a7104d332087db98530f2d0c248_MD5.png",
-    "rendered/Counting_the_invisible/media",
-    "rendered/Counting_the_invisible/assets/images",
-    "rendered/Counting_the_invisible/assets",
+    "rendered/w11-AI-narratives/media/a155757095d646ca43ef2bfc7680ec10_MD5.jpg",
+    "rendered/w11-AI-narratives/media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg",
+    "rendered/w11-AI-narratives/media/224f615082da1fd094146626e57c589d_MD5.jpg",
+    "rendered/w11-AI-narratives/media/22e5c63850ee9a6176abf3b56192c74d_MD5.jpg",
+    "rendered/w11-AI-narratives/media/e95e1b1ebd7e8ca52f5fa61172a2b9c1_MD5.jpg",
+    "rendered/w11-AI-narratives/media/5af76154be7f3c02988e597a071e859a_MD5.jpg",
+    "rendered/w11-AI-narratives/media/3dccb28fd65c4201ed0522168db6ee53_MD5.jpg",
+    "rendered/w11-AI-narratives/media/0aefb2786518085a5cb4c2503e405373_MD5.jpg",
+    "rendered/w11-AI-narratives/media/6f09231c64f33a559a652401d19a5902_MD5.png",
+    "rendered/w11-AI-narratives/media/9e4dcba796f3164e68e3e3c5b8fac327_MD5.png",
+    "rendered/w11-AI-narratives/media/b8b708cd4af20928549b726f6b00b9f1_MD5.png",
+    "rendered/w11-AI-narratives/media",
+    "rendered/w11-AI-narratives/assets/images",
+    "rendered/w11-AI-narratives/assets",
+    "rendered/w11-AI-narratives/plugin/chalkboard/README.md",
+    "rendered/w11-AI-narratives/plugin/chalkboard/_style.css",
+    "rendered/w11-AI-narratives/plugin/chalkboard/img",
+    "rendered/w11-AI-narratives/plugin/chalkboard/plugin (copy).js",
+    "rendered/w11-AI-narratives/plugin/chalkboard/style.css",
+    "rendered/w11-AI-narratives/plugin/chalkboard/plugin.js",
+    "rendered/w11-AI-narratives/plugin/chalkboard",
+    "rendered/w11-AI-narratives/plugin/chart/README.md",
+    "rendered/w11-AI-narratives/plugin/chart/plugin.js",
+    "rendered/w11-AI-narratives/plugin/customcontrols/README.md",
+    "rendered/w11-AI-narratives/plugin/menu/CONTRIBUTING.md",
+    "rendered/w11-AI-narratives/plugin/menu/README.md",
+    "source_slides/w9-creativity-authorship.md",
+    "source_slides/w11-AI-narratives.md",
+    "source_slides/Counting_the_invisible.md",
+    "source_slides/fas.md",
+    "source_slides/w8-faces-identities.md",
+    "source_slides/w4-machine-vision-sem.md",
+    "source_slides/w4-machine-vision.md",
+    "source_slides/B3_1.md",
     "rendered/Counting_the_invisible/plugin/chalkboard/README.md",
-    "rendered/Counting_the_invisible/plugin/chalkboard/_style.css",
     "rendered/Counting_the_invisible/plugin/chart/README.md",
     "rendered/Counting_the_invisible/plugin/customcontrols/README.md",
     "rendered/Counting_the_invisible/plugin/menu/CONTRIBUTING.md",
     "rendered/Counting_the_invisible/plugin/menu/README.md",
-    "source_slides/w9-creativity-authorship.md",
-    "source_slides/Counting_the_invisible.md",
-    "source_slides/B3_1.md",
     "source_slides/B3_2.md",
-    "source_slides/w4-machine-vision.md",
-    "source_slides/fas.md",
     "templates/slides_template.md",
     "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
     "rendered/w9-creativity-authorship/plugin/chart/README.md",
     "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
     "rendered/w9-creativity-authorship/plugin/menu/CONTRIBUTING.md",
-    "rendered/w9-creativity-authorship/plugin/menu/README.md",
-    "source_slides/w8-faces-identities.md",
-    "rendered/w8-faces-identitties/plugin/menu/README.md",
-    "rendered/w8-faces-identitties/plugin/menu/CONTRIBUTING.md",
-    "rendered/w8-faces-identitties/plugin/customcontrols/README.md",
-    "rendered/w8-faces-identitties/plugin/chart/README.md",
-    "rendered/w8-faces-identitties/plugin/chalkboard/README.md",
-    "rendered/w8-faces&identitties/plugin/chalkboard/README.md",
-    "rendered/w8-faces&identitties/plugin/chart/README.md"
+    "rendered/w9-creativity-authorship/plugin/menu/README.md"
   ]
 }

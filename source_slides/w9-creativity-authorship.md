@@ -3,6 +3,8 @@ title: Creativity & Authorship
 draft: false
 tags:
   - presentation
+  - 7AAVCD42
+  - 6AAVC307
 date_created: 23 Nov 2023
 date_modified: 23 Nov 2023
 margin: 0
@@ -64,13 +66,6 @@ Examine in detail this "creative dance"
 >... the exclusive and exclusionary mechanisms through which agency and personhood have been granted (or withheld) have often served to disadvantage and exploit marginalised groups
 
 \- M Zeilinger, 2021
-
-
----
-
-- ## Agent
-- ## Person
-- ## Owner
 
 
 note:

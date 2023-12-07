@@ -3,6 +3,8 @@ title: Seeing like a machine seminar
 draft: false
 tags:
   - presentation
+  - 7AAVCD42
+  - 6AAVC307
 date_created: 18 Oct 2023
 date_modified: 19 Oct 2023
 margin: 0

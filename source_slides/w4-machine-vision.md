@@ -3,6 +3,8 @@ title: Seeing like a machine
 draft: false
 tags:
   - presentation
+  - 7AAVCD42
+  - 6AAVC307
 date_created: 18 Oct 2023
 date_modified: 18 Oct 2023
 margin: 0
