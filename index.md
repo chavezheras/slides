@@ -11,3 +11,4 @@
 - [Week 8 Lecture ― Faces and Identitities](rendered/w8-faces-identitties)
 - [Week 9 Lecture ― Creativity and Authorship](rendered/w9-creativity-authorship)
 - [Week 11 Lecture ― AI Narratives](rendered/w11-AI-narratives)
+- [Keneddy-Hill](assets/kennedy-hill.pdf)
