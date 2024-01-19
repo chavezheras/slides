@@ -4,44 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f6017db9a952dd09",
+        "id": "6f7006cbc594f6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e647ece1a121e10",
+            "id": "7a9e7e581e561c40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source_slides/w11-AI-narratives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018d9f68b169e65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source_slides/w9-creativity-authorship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "58d6dd27686437de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9417da3aac4bd1eb",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -119,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w11-AI-narratives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w11-AI-narratives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source_slides/w11-AI-narratives.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,8 +147,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9417da3aac4bd1eb",
+  "active": "7a9e7e581e561c40",
   "lastOpenFiles": [
+    "source_slides/w11-AI-narratives.md",
+    "source_slides/w9-creativity-authorship.md",
     "rendered/w11-AI-narratives/media/a155757095d646ca43ef2bfc7680ec10_MD5.jpg",
     "rendered/w11-AI-narratives/media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg",
     "rendered/w11-AI-narratives/media/224f615082da1fd094146626e57c589d_MD5.jpg",
@@ -193,7 +161,6 @@
     "rendered/w11-AI-narratives/media/0aefb2786518085a5cb4c2503e405373_MD5.jpg",
     "rendered/w11-AI-narratives/media/6f09231c64f33a559a652401d19a5902_MD5.png",
     "rendered/w11-AI-narratives/media/9e4dcba796f3164e68e3e3c5b8fac327_MD5.png",
-    "rendered/w11-AI-narratives/media/b8b708cd4af20928549b726f6b00b9f1_MD5.png",
     "rendered/w11-AI-narratives/media",
     "rendered/w11-AI-narratives/assets/images",
     "rendered/w11-AI-narratives/assets",
@@ -209,8 +176,6 @@
     "rendered/w11-AI-narratives/plugin/customcontrols/README.md",
     "rendered/w11-AI-narratives/plugin/menu/CONTRIBUTING.md",
     "rendered/w11-AI-narratives/plugin/menu/README.md",
-    "source_slides/w9-creativity-authorship.md",
-    "source_slides/w11-AI-narratives.md",
     "source_slides/Counting_the_invisible.md",
     "source_slides/fas.md",
     "source_slides/w8-faces-identities.md",
