@@ -11,7 +11,25 @@
             "id": "7a9e7e581e561c40",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3494436dd6e2d7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8109f182c1d13e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source_slides/w2-7AAVDM52-perception_emotion.md"
+              }
             }
           }
         ]
@@ -147,32 +169,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a9e7e581e561c40",
+  "active": "bc8109f182c1d13e",
   "lastOpenFiles": [
+    "rendered/w2-7AAVDM52-perception_emotion/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "rendered/w2-7AAVDM52-perception_emotion/assets/images",
+    "rendered/w2-7AAVDM52-perception_emotion/assets",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/README.md",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/_style.css",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/blackboard.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-black.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-blue.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-green.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-orange.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-purple.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-red.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/boardmarker-yellow.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/chalk-blue.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img/chalk-green.png",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/style.css",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/plugin.js",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/plugin (copy).js",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/plugin.js",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/chart.min.js",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/README.md",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/customcontrols/README.md",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/menu/CONTRIBUTING.md",
+    "rendered/w2-7AAVDM52-perception_emotion/plugin/menu/README.md",
     "source_slides/w11-AI-narratives.md",
+    "source_slides/w2-7AAVDM52-perception_emotion.md",
     "source_slides/w9-creativity-authorship.md",
-    "rendered/w11-AI-narratives/media/a155757095d646ca43ef2bfc7680ec10_MD5.jpg",
-    "rendered/w11-AI-narratives/media/9ab5f3eda45d1e86da3b0c5dc5844abb_MD5.jpg",
-    "rendered/w11-AI-narratives/media/224f615082da1fd094146626e57c589d_MD5.jpg",
-    "rendered/w11-AI-narratives/media/22e5c63850ee9a6176abf3b56192c74d_MD5.jpg",
-    "rendered/w11-AI-narratives/media/e95e1b1ebd7e8ca52f5fa61172a2b9c1_MD5.jpg",
-    "rendered/w11-AI-narratives/media/5af76154be7f3c02988e597a071e859a_MD5.jpg",
-    "rendered/w11-AI-narratives/media/3dccb28fd65c4201ed0522168db6ee53_MD5.jpg",
-    "rendered/w11-AI-narratives/media/0aefb2786518085a5cb4c2503e405373_MD5.jpg",
-    "rendered/w11-AI-narratives/media/6f09231c64f33a559a652401d19a5902_MD5.png",
-    "rendered/w11-AI-narratives/media/9e4dcba796f3164e68e3e3c5b8fac327_MD5.png",
-    "rendered/w11-AI-narratives/media",
-    "rendered/w11-AI-narratives/assets/images",
-    "rendered/w11-AI-narratives/assets",
     "rendered/w11-AI-narratives/plugin/chalkboard/README.md",
-    "rendered/w11-AI-narratives/plugin/chalkboard/_style.css",
-    "rendered/w11-AI-narratives/plugin/chalkboard/img",
-    "rendered/w11-AI-narratives/plugin/chalkboard/plugin (copy).js",
-    "rendered/w11-AI-narratives/plugin/chalkboard/style.css",
-    "rendered/w11-AI-narratives/plugin/chalkboard/plugin.js",
-    "rendered/w11-AI-narratives/plugin/chalkboard",
     "rendered/w11-AI-narratives/plugin/chart/README.md",
-    "rendered/w11-AI-narratives/plugin/chart/plugin.js",
     "rendered/w11-AI-narratives/plugin/customcontrols/README.md",
     "rendered/w11-AI-narratives/plugin/menu/CONTRIBUTING.md",
     "rendered/w11-AI-narratives/plugin/menu/README.md",
@@ -187,12 +216,6 @@
     "rendered/Counting_the_invisible/plugin/customcontrols/README.md",
     "rendered/Counting_the_invisible/plugin/menu/CONTRIBUTING.md",
     "rendered/Counting_the_invisible/plugin/menu/README.md",
-    "source_slides/B3_2.md",
-    "templates/slides_template.md",
-    "rendered/w9-creativity-authorship/plugin/chalkboard/README.md",
-    "rendered/w9-creativity-authorship/plugin/chart/README.md",
-    "rendered/w9-creativity-authorship/plugin/customcontrols/README.md",
-    "rendered/w9-creativity-authorship/plugin/menu/CONTRIBUTING.md",
-    "rendered/w9-creativity-authorship/plugin/menu/README.md"
+    "source_slides/B3_2.md"
   ]
 }
