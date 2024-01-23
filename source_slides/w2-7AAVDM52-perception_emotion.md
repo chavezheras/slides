@@ -177,7 +177,14 @@ Gestalt school of psychology, 1912
 - **Example**: Differences in length, size, hue, and color intensity as visualisation elements.
 ---
 
-Some Gestalt principles:
+...34, 55, 89,144,233,377,610,987, 1597, 2584, 4181, 6765, 10946, 17711, 28657, 46368, 75025, 121393, 196418, 317811, 514229...
+
+---
+
+![Image|1500](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc5%2FFibonacci_Spiral_GeoGebra.svg%2F2219px-Fibonacci_Spiral_GeoGebra.svg.png&f=1&nofb=1&ipt=66e146e3de4c9d67b5763e75866016ce08376552d52007a9631567bc4acda6eb&ipo=images)
+
+---
+## Some Gestalt principles:
 
 - Proximity
 - Similarity
@@ -185,8 +192,8 @@ Some Gestalt principles:
 - Closure
 - Continuity
 - Connection 
-
 ---
+
 
 ### Comparing Effectiveness of Different Visualisations
 
