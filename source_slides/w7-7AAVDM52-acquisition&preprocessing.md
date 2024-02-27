@@ -231,6 +231,10 @@ Jupyter notebotebook
 
 ---
 
+1. [[rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks|Visualising social networks]]
+
+---
+
 # Questions?
 ![](far fa-question-circle fa-4x)
 

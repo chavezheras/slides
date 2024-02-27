@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "c9b01761b8865fdd",
+        "id": "602de47b6d613af5",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ba642d64d7293a",
+            "id": "6651a01dfab96ace",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -169,12 +169,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6ba642d64d7293a",
+  "active": "5e166b9cc5f9d819",
   "lastOpenFiles": [
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Project7/index.html",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Project7/project7.html",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Project7",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks.md",
+    "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7.html",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Climate change through art.md",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Urban green space and public health.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/The digital divide in education.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Gender representation in film and TV.md",
@@ -197,15 +201,11 @@
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img/boardmarker-black.png",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img/boardmarker-blue.png",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/style.css",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/plugin.js",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/plugin (copy).js",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chart/README.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/customcontrols/README.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/menu/CONTRIBUTING.md",
     "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/menu/README.md",
     "source_slides/w2-7AAVDM52-perception_emotion.md",
-    "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
     "source_slides/w11-AI-narratives.md",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/README.md",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/README.md",

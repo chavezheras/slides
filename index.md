@@ -14,3 +14,6 @@
 - [7AAVDM52 W2 Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
 - [7AAVDM52 W7 Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
 - [Cinema and Machine Vision Notes](rendered/CMV-notes)
+- [project 7 out folder](rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7.html)
+- [project 7 md](rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Climate%20change%20through%20art.md)
+- [project 7 in folder](rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Project7)
