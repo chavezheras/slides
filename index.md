@@ -12,4 +12,5 @@
 - [Week 9 Lecture ― Creativity and Authorship](rendered/w9-creativity-authorship)
 - [Week 11 Lecture ― AI Narratives](rendered/w11-AI-narratives)
 - [7AAVDM52 W2 Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
+- [7AAVDM52 W7 Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
 - [Cinema and Machine Vision Notes](rendered/CMV-notes)
