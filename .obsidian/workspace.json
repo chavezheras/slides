@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
+                "file": "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "afcd07367708c74f",
+        "id": "c9b01761b8865fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "36beddb116a93d4e",
+            "id": "a6ba642d64d7293a",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
+                "file": "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w2-7AAVDM52-perception_emotion.md",
+                "file": "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w2-7AAVDM52-perception_emotion.md"
+                "file": "source_slides/w7-7AAVDM52-acquisition&preprocessing.md"
               }
             }
           }
@@ -169,32 +169,45 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a9e7e581e561c40",
+  "active": "a6ba642d64d7293a",
   "lastOpenFiles": [
-    "rendered/w2-7AAVDM52-perception_emotion/Untitled",
-    "rendered/w2-7AAVDM52-perception_emotion/media/441467c77d13148537c7cf60c2e2b883_MD5.jpg",
-    "rendered/w2-7AAVDM52-perception_emotion/media/af53d1743e6d1089082569a204dff4f0_MD5.jpg",
-    "rendered/w2-7AAVDM52-perception_emotion/media/18de2f3119bfb9a25eefd5663ed72cc8_MD5.jpg",
-    "rendered/w2-7AAVDM52-perception_emotion/media/a79049577240aaa65ef15020e69bdbd1_MD5.png",
-    "rendered/w2-7AAVDM52-perception_emotion/media/4b8ad0c5bc6d74b15a969718176b0495_MD5.png",
-    "rendered/w2-7AAVDM52-perception_emotion/media/5a651d3886f289244fb09133865422c2_MD5.jpg",
-    "rendered/w2-7AAVDM52-perception_emotion/media/bf7374d10d67e16202924b18468887f4_MD5.png",
-    "rendered/w2-7AAVDM52-perception_emotion/media/66fbb0a52b3d1f92972b7d67f6c64d4e_MD5.png",
-    "rendered/w2-7AAVDM52-perception_emotion/media/fdab362a7700b0f994633f42932cf687_MD5.png",
-    "rendered/w2-7AAVDM52-perception_emotion/media/536386c401f58aad3ff779f205aed49b_MD5.jpg",
-    "rendered/w2-7AAVDM52-perception_emotion/media",
-    "rendered/w2-7AAVDM52-perception_emotion/assets/images",
-    "rendered/w2-7AAVDM52-perception_emotion/assets",
-    "source_slides/w11-AI-narratives.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7.html",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Climate change through art.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Urban green space and public health.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/The digital divide in education.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Gender representation in film and TV.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Environmental changes in the Amazon.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Crime patterns in major cities.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/27998cc8891eb656ee98cb35b2508d6e_MD5.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/4ee15adfdc9f1ab1620e74b4ffa81d48_MD5.gif",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/b9e1d7460c0801d8de4ab918188fc402_MD5.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/db3ff71208ed696d1902567d9e677aa6_MD5.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/a8449be2a8017f50ee0addd1b8f69119_MD5.jpg",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media/896cfd27b72d2ce6d9b827e36f6f6e21_MD5.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/media",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/assets/images",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/assets",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/README.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/_style.css",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img/blackboard.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img/boardmarker-black.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img/boardmarker-blue.png",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/img",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/style.css",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/plugin.js",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chalkboard/plugin (copy).js",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/chart/README.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/customcontrols/README.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/menu/CONTRIBUTING.md",
+    "rendered/w7-7AAVDM52-acquisition&preprocessing/plugin/menu/README.md",
     "source_slides/w2-7AAVDM52-perception_emotion.md",
+    "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
+    "source_slides/w11-AI-narratives.md",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/README.md",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/_style.css",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/img",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/style.css",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/plugin.js",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard/plugin (copy).js",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chalkboard",
-    "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/plugin.js",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/chart/README.md",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/customcontrols/README.md",
     "rendered/w2-7AAVDM52-perception_emotion/plugin/menu/CONTRIBUTING.md",
@@ -203,19 +216,6 @@
     "rendered/w11-AI-narratives/plugin/chalkboard/README.md",
     "rendered/w11-AI-narratives/plugin/chart/README.md",
     "rendered/w11-AI-narratives/plugin/customcontrols/README.md",
-    "rendered/w11-AI-narratives/plugin/menu/CONTRIBUTING.md",
-    "rendered/w11-AI-narratives/plugin/menu/README.md",
-    "source_slides/Counting_the_invisible.md",
-    "source_slides/fas.md",
-    "source_slides/w8-faces-identities.md",
-    "source_slides/w4-machine-vision-sem.md",
-    "source_slides/w4-machine-vision.md",
-    "source_slides/B3_1.md",
-    "rendered/Counting_the_invisible/plugin/chalkboard/README.md",
-    "rendered/Counting_the_invisible/plugin/chart/README.md",
-    "rendered/Counting_the_invisible/plugin/customcontrols/README.md",
-    "rendered/Counting_the_invisible/plugin/menu/CONTRIBUTING.md",
-    "rendered/Counting_the_invisible/plugin/menu/README.md",
-    "source_slides/B3_2.md"
+    "rendered/w11-AI-narratives/plugin/menu/CONTRIBUTING.md"
   ]
 }
