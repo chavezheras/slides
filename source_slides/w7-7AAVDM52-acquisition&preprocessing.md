@@ -231,7 +231,13 @@ Jupyter notebotebook
 
 ---
 
-1. [[rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks|Visualising social networks]]
+1. [Visualising social networks](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project1.html)
+2. [Urban green space and public health](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project2.html)
+3. [The digital divide in education](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project3.html)
+4. [Crime patterns in major cities](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project4.html)
+5. [Gender representation in film and TV](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project5.html)
+6. [Environmental changes in the Amazon](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project6.html)
+7. [Climate change through art](https://slides.movingpixel.net/rendered/w7-7AAVDM52-acquisition&preprocessing/projects/project7.html)
 
 ---
 
