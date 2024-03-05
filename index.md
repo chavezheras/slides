@@ -14,4 +14,4 @@
 - [7AAVDM52 W2 Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
 - [7AAVDM52 W7 Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
 - [7AAVDM52 projects](rendered/w7-7AAVDM52-acquisition&preprocessing/projects)
-
+- [7AAVDM52 W8 RAWGraphs](rendered/w8-7AAVDM52-RAWGraphs)
