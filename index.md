@@ -15,3 +15,4 @@
 - [7AAVDM52 W7 Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
 - [7AAVDM52 projects](rendered/w7-7AAVDM52-acquisition&preprocessing/projects)
 - [7AAVDM52 W8 RAWGraphs](rendered/w8-7AAVDM52-RAWGraphs)
+- [7AAVDM52 W9 D3.js](rendered/w9-7AAVDM52-D3JS)
