@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2fa.md",
+                "file": "source_slides/w10-7AAVDM52-storytelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "308d22e3235831de",
+        "id": "29ac6bb0381bc5db",
         "type": "tabs",
         "children": [
           {
-            "id": "7c8e6742033620a0",
+            "id": "bdf95ed0cdfc9a5d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2fa.md",
+                "file": "source_slides/w10-7AAVDM52-storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2fa.md",
+                "file": "source_slides/w10-7AAVDM52-storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2fa.md"
+                "file": "source_slides/w10-7AAVDM52-storytelling.md"
               }
             }
           }
@@ -169,37 +169,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a9e7e581e561c40",
+  "active": "bdf95ed0cdfc9a5d",
   "lastOpenFiles": [
+    "rendered/w10-7AAVDM52-storytelling/media/320a077df24d3015db52542b5cd13ca4_MD5.png",
+    "rendered/w10-7AAVDM52-storytelling/media/cf626da3bd1ae4cc14ce194adb4d8714_MD5.png",
+    "rendered/w10-7AAVDM52-storytelling/media/affdc9a05ec92395a6c9b92a4d392db6_MD5.png",
+    "rendered/w10-7AAVDM52-storytelling/media/8487649f704c6f01d531406ae090b50c_MD5.png",
+    "rendered/w10-7AAVDM52-storytelling/media/3c11e3fc220a7bd4ffc32df02a98b59d_MD5.png",
+    "rendered/w10-7AAVDM52-storytelling/media",
+    "rendered/w10-7AAVDM52-storytelling/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
+    "rendered/w10-7AAVDM52-storytelling/assets/images",
+    "rendered/w10-7AAVDM52-storytelling/assets",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/README.md",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/_style.css",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/blackboard.png",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-black.png",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-blue.png",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-green.png",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-orange.png",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/style.css",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/plugin.js",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/plugin (copy).js",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chart/plugin.js",
+    "rendered/w10-7AAVDM52-storytelling/plugin/chart/README.md",
+    "rendered/w10-7AAVDM52-storytelling/plugin/customcontrols/README.md",
+    "rendered/w10-7AAVDM52-storytelling/plugin/menu/CONTRIBUTING.md",
+    "rendered/w10-7AAVDM52-storytelling/plugin/menu/README.md",
     "source_slides/w9-7AAVDM52-D3JS.md",
-    "rendered/w9-7AAVDM52-D3JS/media/591ea83249885f86803759fcadbc83d7_MD5.png",
-    "rendered/w9-7AAVDM52-D3JS/media/709336ec7c17e2802a8f4c92237981b6_MD5.png",
-    "rendered/w9-7AAVDM52-D3JS/media/e29b8499b1aba0d7ded217f2d71508fa_MD5.png",
-    "rendered/w9-7AAVDM52-D3JS/media/cc4804fd04d2f0c48c3bebdaac0c6f96_MD5.png",
-    "rendered/w9-7AAVDM52-D3JS/media/4994e847925fce70f04605422867a5a3_MD5.png",
-    "rendered/w9-7AAVDM52-D3JS/media",
-    "rendered/w9-7AAVDM52-D3JS/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
-    "rendered/w9-7AAVDM52-D3JS/assets/images",
-    "rendered/w9-7AAVDM52-D3JS/assets",
+    "source_slides/w10-7AAVDM52-storytelling.md",
+    "2fa.md",
+    "index.md",
+    "AI Festival.md",
     "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/README.md",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/_style.css",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/img/blackboard.png",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/img/boardmarker-black.png",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/img/boardmarker-blue.png",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/img/boardmarker-green.png",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/img",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/plugin (copy).js",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/style.css",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard/plugin.js",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chalkboard",
     "rendered/w9-7AAVDM52-D3JS/plugin/chart/README.md",
-    "rendered/w9-7AAVDM52-D3JS/plugin/chart/plugin.js",
     "rendered/w9-7AAVDM52-D3JS/plugin/customcontrols/README.md",
     "rendered/w9-7AAVDM52-D3JS/plugin/menu/CONTRIBUTING.md",
     "rendered/w9-7AAVDM52-D3JS/plugin/menu/README.md",
     "source_slides/w9-creativity-authorship.md",
     "source_slides/w11-AI-narratives.md",
-    "2fa.md",
     "rendered/w8-7AAVDM52-D3JS/plugin/chalkboard/README.md",
     "rendered/w8-7AAVDM52-D3JS/plugin/chart/README.md",
     "rendered/w8-7AAVDM52-D3JS/plugin/customcontrols/README.md",
@@ -207,14 +216,6 @@
     "rendered/w8-7AAVDM52-D3JS/plugin/menu/README.md",
     "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
     "source_slides/w8-7AAVDM52-RAWGraphs.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/chalkboard/README.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/chart/README.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/customcontrols/README.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/menu/CONTRIBUTING.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/menu/README.md",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Visualising social networks.md",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Climate change through art.md",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/Urban green space and public health.md",
-    "rendered/w7-7AAVDM52-acquisition&preprocessing/projects/The digital divide in education.md"
+    "rendered/w8-7AAVDM52-RAWGraphs/plugin/chalkboard/README.md"
   ]
 }
