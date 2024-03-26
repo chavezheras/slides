@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_slides/w10-7AAVDM52-storytelling.md",
+                "file": "source_slides/w11-7AAVDM52-complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "29ac6bb0381bc5db",
+        "id": "eac693b2616922c4",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf95ed0cdfc9a5d",
+            "id": "cd0508e457e068ac",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_slides/w10-7AAVDM52-storytelling.md",
+                "file": "source_slides/w11-7AAVDM52-complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_slides/w10-7AAVDM52-storytelling.md",
+                "file": "source_slides/w11-7AAVDM52-complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_slides/w10-7AAVDM52-storytelling.md"
+                "file": "source_slides/w11-7AAVDM52-complexity.md"
               }
             }
           }
@@ -169,36 +169,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bdf95ed0cdfc9a5d",
+  "active": "cd0508e457e068ac",
   "lastOpenFiles": [
-    "rendered/w10-7AAVDM52-storytelling/media/320a077df24d3015db52542b5cd13ca4_MD5.png",
-    "rendered/w10-7AAVDM52-storytelling/media/cf626da3bd1ae4cc14ce194adb4d8714_MD5.png",
-    "rendered/w10-7AAVDM52-storytelling/media/affdc9a05ec92395a6c9b92a4d392db6_MD5.png",
-    "rendered/w10-7AAVDM52-storytelling/media/8487649f704c6f01d531406ae090b50c_MD5.png",
-    "rendered/w10-7AAVDM52-storytelling/media/3c11e3fc220a7bd4ffc32df02a98b59d_MD5.png",
-    "rendered/w10-7AAVDM52-storytelling/media",
-    "rendered/w10-7AAVDM52-storytelling/assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg",
-    "rendered/w10-7AAVDM52-storytelling/assets/images",
-    "rendered/w10-7AAVDM52-storytelling/assets",
+    "rendered/w11-7AAVDM52-complexity/media/831a35d24ec37c40563b84bc8f7bd2f6_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/f8a9a7e0fbab1d2f56e4c126c482d085_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/7f475103b8f978c414a5260546b383b2_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/78c2795b5a4b60d24e83c310fc45f6ce_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/91b65c8ad44cdeb01aab57fbe8efa390_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/198c06d60d0b21d2952fe6a417d2bbd9_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/da9a6c97588cb7103ebf1fc1bc7cba10_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/570d48dbeed73d23b6ba1fe9b0ceb0d3_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/2a517dd900511af6ce8db0d1d58b3815_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/91e555103736b984c9ca2770a061d092_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media/cc2da5fc3fe86512388b6e1d9deadb65_MD5.png",
+    "rendered/w11-7AAVDM52-complexity/media",
+    "rendered/w11-7AAVDM52-complexity/assets/images",
+    "rendered/w11-7AAVDM52-complexity/assets",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/README.md",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/_style.css",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/img",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/plugin (copy).js",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/style.css",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard/plugin.js",
+    "rendered/w11-7AAVDM52-complexity/plugin/chalkboard",
+    "rendered/w11-7AAVDM52-complexity/plugin/chart/plugin.js",
+    "rendered/w11-7AAVDM52-complexity/plugin/chart/README.md",
+    "rendered/w11-7AAVDM52-complexity/plugin/customcontrols/README.md",
+    "rendered/w11-7AAVDM52-complexity/plugin/menu/CONTRIBUTING.md",
+    "rendered/w11-7AAVDM52-complexity/plugin/menu/README.md",
+    "source_slides/w10-7AAVDM52-storytelling.md",
+    "source_slides/w11-7AAVDM52-complexity.md",
+    "Untitled.md",
     "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/README.md",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/_style.css",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/blackboard.png",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-black.png",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-blue.png",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-green.png",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img/boardmarker-orange.png",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/img",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/style.css",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/plugin.js",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard/plugin (copy).js",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chalkboard",
-    "rendered/w10-7AAVDM52-storytelling/plugin/chart/plugin.js",
     "rendered/w10-7AAVDM52-storytelling/plugin/chart/README.md",
     "rendered/w10-7AAVDM52-storytelling/plugin/customcontrols/README.md",
     "rendered/w10-7AAVDM52-storytelling/plugin/menu/CONTRIBUTING.md",
     "rendered/w10-7AAVDM52-storytelling/plugin/menu/README.md",
     "source_slides/w9-7AAVDM52-D3JS.md",
-    "source_slides/w10-7AAVDM52-storytelling.md",
     "2fa.md",
     "index.md",
     "AI Festival.md",
@@ -209,13 +216,6 @@
     "rendered/w9-7AAVDM52-D3JS/plugin/menu/README.md",
     "source_slides/w9-creativity-authorship.md",
     "source_slides/w11-AI-narratives.md",
-    "rendered/w8-7AAVDM52-D3JS/plugin/chalkboard/README.md",
-    "rendered/w8-7AAVDM52-D3JS/plugin/chart/README.md",
-    "rendered/w8-7AAVDM52-D3JS/plugin/customcontrols/README.md",
-    "rendered/w8-7AAVDM52-D3JS/plugin/menu/CONTRIBUTING.md",
-    "rendered/w8-7AAVDM52-D3JS/plugin/menu/README.md",
-    "source_slides/w7-7AAVDM52-acquisition&preprocessing.md",
-    "source_slides/w8-7AAVDM52-RAWGraphs.md",
-    "rendered/w8-7AAVDM52-RAWGraphs/plugin/chalkboard/README.md"
+    "rendered/w8-7AAVDM52-D3JS/plugin/chalkboard/README.md"
   ]
 }

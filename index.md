@@ -17,3 +17,4 @@
 - [7AAVDM52 W8 RAWGraphs](rendered/w8-7AAVDM52-RAWGraphs)
 - [7AAVDM52 W9 D3.js](rendered/w9-7AAVDM52-D3JS)
 - [7AAVDM52 W10 Storytelling](rendered/w10-7AAVDM52-storytelling)
+- [7AAVDM52 W11 Complexity](rendered/w11-7AAVDM52-complexity)
