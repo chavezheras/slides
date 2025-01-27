@@ -88,7 +88,7 @@ I will present a very condensed version the these chapters as a theoretical foun
 ## Media as Artefact
 ### Testimonies & Traces
 
-![[Pasted image 20241015230618.png|1200]]
+![[assets/images/Pasted image 20241015230618.png|1200]]
 
 note:
 Mind independent conjecture about mechanical processes in Photography.
@@ -197,7 +197,7 @@ And this in turn opens the door to different kinds of statistical analysis along
 ## Media as Calculation
 ### Counting the invisible
 
-![[Pasted image 20241016002356.png|1200]]
+![[assets/images/Pasted image 20241016002356.png|1200]]
 
 note:
 Bergson, Deleuze, Doanne
@@ -251,7 +251,7 @@ maximum and minimum differences between frames
 ---
 ### Computational Burch
 
-![[Pasted image 20241015225413.png]]
+![[assets/images/Pasted image 20241015225413.png]]
 
 note:
 Temporal structure in film is usually broken down analytically into sequences, scenes, and shots. These are units with which filmmakers and film editors design an intelligible whole from a pool of possible parts, most often recorded in various locations at separate times and in a different order.
@@ -265,14 +265,14 @@ twelve-­tone music. (Burch, 1981, p. 14)
 
 ---
 
-![[Pasted image 20241015225539.png]]
+![[assets/images/Pasted image 20241015225539.png]]
 
 ---
 <split even gap="3">
 
-![[Pasted image 20241015225745.png|750]]
+![[assets/images/Pasted image 20241015225745.png|750]]
 
-![[Pasted image 20241015225830.png|750]]
+![[assets/images/Pasted image 20241015225830.png|750]]
 
 </split>
 
@@ -332,7 +332,7 @@ Topology of the network affects dynamics
 ## Media as a Programming Language
 ### Finding the shape of time
 
-![[Pasted image 20241016004342.png|1000]]
+![[assets/images/Pasted image 20241016004342.png|1000]]
 
 note:
 motion is not fragmented into a sequence of individual frames, but rather any one frame already contains the potential to release motion. The cinematic gives way to the datamatic, and datamatic time is not segmented and analysed, but predicted and synthesised.
@@ -379,26 +379,26 @@ Tarkovsky points to this strange notion of a film that edits itself, I think thi
 
 ---
 
-![[Pasted image 20241016000146.png|1500]]
+![[assets/images/Pasted image 20241016000146.png|1500]]
 
 ---
 
-![[Pasted image 20241016000527.png|1700]]
+![[assets/images/Pasted image 20241016000527.png|1700]]
 Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
 
 ---
 
-![[Pasted image 20241016000458.png|1700]]
+![[assets/images/Pasted image 20241016000458.png|1700]]
 Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
 
 ---
 
-![[Pasted image 20241016000419.png|1700]]
+![[assets/images/Pasted image 20241016000419.png|1700]]
 Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
 
 ---
 
-![[Pasted image 20241016000617.png|1700]]
+![[assets/images/Pasted image 20241016000617.png|1700]]
 Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
 
 ---
