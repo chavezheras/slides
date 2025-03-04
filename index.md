@@ -1,5 +1,5 @@
 #Slides
-- [ISSA-1](rendered/ISSA-1)
+- [ISSA townhall](rendered/ISSA-townhall)
 - [Geometries of Time](rendered/Geometries-of-Time)
 - [IBERO diapositivas](rendered/Ojos-que-no-ven)
 - [EPFL slides](rendered/creanalytics)

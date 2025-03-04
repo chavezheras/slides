@@ -178,7 +178,7 @@ The complementary AIMS workshops are designed to situate the prototype in differ
 
 ---
 
-![[ISSA_FAQ.png|1000]]
+![[ISSA_FAQ 1.png|1000]]
 [ISSA code repository and WIKI](https://github.com/kingsdigitallab/issa/wiki/Frequently-Asked-Questions)
 
 ---
