@@ -36,14 +36,14 @@ The slides are publicly available through the ISSA GitHub Repository
 <!-- slide bg="#2b1804" -->
 
 > [!example]  Townhall Agenda
-> 1. Introduction (Daniel)
-> 2. BFI's Innovation Challenge Fund (Anna)
-> 3. The screen heritage landscape in the UK (Clare)
-> 4. King's Digital Lab (Arianna)
-> 5. RSE approach (Geoffroy)
-> 6. Scope and roadmap (Daniel)
-> 7. Get in touch (Daniel)
-> 8. Q&A (Kirsty moderates)
+> 1. Introduction
+> 2. BFI's Innovation Challenge Fund
+> 3. The screen heritage landscape in the UK
+> 4. King's Digital Lab
+> 5. RSE approach
+> 6. Scope and roadmap
+> 7. Get in touch
+> 8. Q&A
 
 note:
 The objective of this townhall is to introduce the project, its objectives, partners and approach. As well as answer any questions in a forum open to all.
@@ -112,20 +112,23 @@ Anna Casey
 
 ## 3. Screen heritage sector in the UK
 
-FAUK slide
 
-![[logo_filmarchivesUK.png]]
+![[logo_filmarchivesUK.png|500]]
 note:
-Clare Watson
+Film Archives UK (FAUK) brings together archives, archivists, associate organisations and individuals who are interested in and committed to the work and development of the UK’s public sector film archives.
 
 ---
 
+<!-- slide bg="#f4f4f4" -->
 ## 4. King's Digital Lab
 
-KDL slide 1 (Arianna)
+![[assets/images/2025-03-05_issa-kdl/Slide1.jpg|1300]]
+https://kdl.kcl.ac.uk/​
 
 note:
-Arianna
+https://kdl.kcl.ac.uk/about/team/ ​
+https://kdl.kcl.ac.uk/projects/research-themes/
+https://kdl.kcl.ac.uk/faqs/ 
 
 King’s Digital Lab (KDL) is a Research Software Engineering (RSE) team in King’s College London, based in the Faculty of Arts & Humanities. The lab manages over 100 Digital Humanities projects collected over the past two decades and has a portfolio of approximately twenty projects in active development and over sixty projects in various post-funding states. KDL engages widely with other higher education institutions, with libraries, museums, and cultural heritage bodies, and with the performing arts and creative industries sector. The lab works in various areas, including, Digital Creativity, AI and Machine Learning, and Indigenous Digital Humanities. 
 
@@ -138,10 +141,14 @@ The role of KDL is to design and deliver the core research and development provi
 
 ## 5. RSE approach
 
-KDL slide 2 (Geoffroy)
+![[assets/images/2025-03-05_issa-kdl/Slide2.jpg|1350]]
+
+
+- https://kdl.kcl.ac.uk/projects/​
+- https://kdl.kcl.ac.uk/projects/sculpting-time-with-computers/​
 
 note:
-Geoffroy
+
 
 ---
 <!-- slide bg="#f4f4f4" -->
