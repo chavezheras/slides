@@ -112,10 +112,14 @@ Anna Casey
 
 ## 3. Screen heritage sector in the UK
 
+![[assets/images/ISSA Town Hall_FAUK/Slide1.jpg|1500]]
 
-![[logo_filmarchivesUK.png|500]]
 note:
 Film Archives UK (FAUK) brings together archives, archivists, associate organisations and individuals who are interested in and committed to the work and development of the UK’s public sector film archives.
+
+---
+<!-- slide bg="#f4f4f4" -->
+![[assets/images/ISSA Town Hall_FAUK/Slide2.jpg|1500]]
 
 ---
 
