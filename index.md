@@ -1,5 +1,5 @@
 #Slides
-- [ISSA QMUL](rendered/ISSA-qmul)
+- [ISSA QMUL](rendered/ISSA-QMUL)
 - [ISSA townhall](rendered/ISSA-townhall)
 - [Geometries of Time](rendered/Geometries-of-Time)
 - [IBERO diapositivas](rendered/Ojos-que-no-ven)
