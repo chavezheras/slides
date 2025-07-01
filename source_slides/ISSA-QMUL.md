@@ -53,7 +53,7 @@ Collaboration and deeper integration is the path forward
 
 ---
 
-![[ISSA_partners.png|780]]
+![[assets/images/ISSA_partners.png|780]]
 
 > [!info] ISSA partners 
 > - [North West Film Archive](https://kcl-research.worktribe.com/record.jx?recordid=3782417)
@@ -229,7 +229,7 @@ AIMS are six weeks long each \[26 January – 18 September 2026] 
 ---
 
 
-![[ISSA_web_snap.png|1000]]
+![[assets/images/ISSA_web_snap.png|1000]]
 [BFI press release](https://core-cms.bfi.org.uk/media/39909/download "https://core-cms.bfi.org.uk/media/39909/download")  ·  [ISSA website](https://www.kcl.ac.uk/research/issa "https://www.kcl.ac.uk/research/issa")  
 
 ---
