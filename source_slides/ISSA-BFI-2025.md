@@ -3,6 +3,7 @@ title: ISSA-BFI-2025
 draft: false
 tags:
   - presentation
+  - ISSA
 date_created: 15 May 2025
 date_modified: 19 May 2025
 margin: 0
@@ -12,9 +13,7 @@ transition: slide
 theme: black
 ---
 
-
-![[ISSA_1.png]]
-
+![[rendered/ISSA-BFI-2025/assets/images/ISSA_1.png]]
 ## BFI, May 2025
 
 ---
@@ -289,7 +288,11 @@ BL Fantastic Futures Conference
 [ISSA code repository and WIKI](https://github.com/kingsdigitallab/issa/wiki/Frequently-Asked-Questions)
 
 ---
-![](fas fa-hand-point-down fa-3x)<!-- .element: color="#4C4E52" -->
+
+
+![[ISSA_web.png]]
+https://www.kcl.ac.uk/research/issa
+
 ![](fas fa-envelope fa-4x)<!-- .element: color="#992d51"--> 
 issa@kcl.ac.uk
 
