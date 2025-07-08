@@ -63,7 +63,7 @@ Collaboration and deeper integration is the path forward
 
 ---
  ## 2. Partners
-![[ISSA_partners.png|1350]]
+![[assets/images/ISSA_partners.png|1350]]
 
 
 note:
@@ -279,7 +279,7 @@ BL Fantastic Futures Conference
 ---
 ## 5. Get in touch
 
-![[ISSA_web_snap.png|1000]]
+![[assets/images/ISSA_web_snap.png|1000]]
 [BFI press release](https://core-cms.bfi.org.uk/media/39909/download "https://core-cms.bfi.org.uk/media/39909/download")  ·  [ISSA website](https://www.kcl.ac.uk/research/issa "https://www.kcl.ac.uk/research/issa")  
 
 ---

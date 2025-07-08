@@ -1,4 +1,5 @@
 #Slides
+- [Computational Moving Images at Scale HD+RSE Summer School 2025](rendered/CMIS)
 - [ISSA BFI 2025](rendered/ISSA-BFI-2025)
 - [ISSA QMUL](rendered/ISSA-QMUL)
 - [ISSA townhall](rendered/ISSA-townhall)

@@ -66,7 +66,11 @@ Collaboration and deeper integration is the path forward
 
 ---
 
-![[ISSA_partners.png|780]]
+![[Pasted image 20250707125920.png]]
+
+---
+
+![[assets/images/ISSA_partners.png|780]]
 
 > [!info] ISSA partners 
 > - [North West Film Archive](https://kcl-research.worktribe.com/record.jx?recordid=3782417)
@@ -79,17 +83,21 @@ Collaboration and deeper integration is the path forward
 note:
 UK scope, one archive in each country. 
 
+
 ---
+
 
 <!-- slide bg="#f4f4f4" -->
 
 ![[ISSA_at_KCL.png]]
 ISSA is supported by the [BFI Innovation Challenge Fund](https://www.bfi.org.uk/get-funding-support/bfi-national-lottery-innovation-challenge-fund "BFI National Lottery Innovation Challenge Fund"), made possible with National Lottery funding
+
 note:
 Introduce Digital Humanities, e-Research, and King's Digital Lab
 
 The [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King's College London is the largest and oldest of its kind worldwide, it is internationally recognised for producing leading research into the 
 applications and implications of technology on contemporary society, including a track record of interdisciplinary projects for the understanding of culture through advanced computational methods.
+
 
 ---
 <!-- slide bg="#992d51" -->
@@ -271,7 +279,7 @@ AIMS are six weeks long each \[26 January – 18 September 2026] 
 ---
 
 
-![[ISSA_web_snap.png|1000]]
+![[assets/images/ISSA_web_snap.png|1000]]
 [BFI press release](https://core-cms.bfi.org.uk/media/39909/download "https://core-cms.bfi.org.uk/media/39909/download")  ·  [ISSA website](https://www.kcl.ac.uk/research/issa "https://www.kcl.ac.uk/research/issa")  
 
 ---
