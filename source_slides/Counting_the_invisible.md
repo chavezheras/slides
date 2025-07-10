@@ -189,6 +189,7 @@ note:
 maximum and minimum differences between frames
 
 ---
+
 ![[media/46ff8796887a813b083c83026462362d_MD5.png]]
 
 note:

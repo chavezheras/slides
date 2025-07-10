@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>ISSA-FRA-masterclass</title>
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+	<link rel="stylesheet" href="css/layout.css" />
+	<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+	<script type="text/javascript">
+		var forgetPop = true;
+		function onPopState(event) {
+			if(forgetPop){
+				forgetPop = false;
+			} else {
+				parent.postMessage(event.target.location.href, "app://obsidian.md");
+			}
+        }
+		window.onpopstate = onPopState;
+		window.onmessage = event => {
+			if(event.data == "reload"){
+				window.document.location.reload();
+			}
+			forgetPop = true;
+		}
+
+		function fitElements(){
+			const itemsToFit = document.getElementsByClassName('fitText');
+			for (const item in itemsToFit) {
+				if (Object.hasOwnProperty.call(itemsToFit, item)) {
+					var element = itemsToFit[item];
+					fitElement(element,1, 1000);
+					element.classList.remove('fitText');
+				}
+			}
+		}
+
+		function fitElement(element, start, end){
+
+			let size = (end + start) / 2;
+			element.style.fontSize = `${size}px`;
+
+			if(Math.abs(start - end) < 1){
+				while(element.scrollHeight > element.offsetHeight){
+					size--;
+					element.style.fontSize = `${size}px`;
+				}
+				return;
+			}
+
+			if(element.scrollHeight > element.offsetHeight){
+				fitElement(element, start, size);
+			} else {
+				fitElement(element, size, end);
+			}		
+		}
+
+
+		document.onreadystatechange = () => {
+			fitElements();
+			if (document.readyState === 'complete') {
+				if (window.location.href.indexOf("?export") != -1){
+					parent.postMessage(event.target.location.href, "app://obsidian.md");
+				}
+				if (window.location.href.indexOf("print-pdf") != -1){
+					let stateCheck = setInterval(() => {
+						clearInterval(stateCheck);
+						window.print();
+					}, 250);
+				}
+			}
+	};
+
+
+        </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<section data-background-transition="zoom" data-background-video="https://github.com/chavezheras/slides/raw/main/assets/machine_vision_BG.mp4"
+          data-background-video-loop data-background-video-muted data-background-opacity=.2>
+          <aside class="notes">
+          <p>Gracias Juan Luis por la invitación, encantado de estar aquí.</p>
+          </aside>
+</section>
+
+
+# ISSA
+## Sistemas Inteligentes para Archivos Audiovisuales 
+
+
+
+<img src="assets/images/db3a81949ab652d55054d76b287e03fa_MD5.jpg" alt="" style="width: 250px; object-fit: fill">
+
+
+[Dr Daniel Chávez Heras](https://movingpixel.net/)
+
+[movingpixel.net ](https://movingpixel.net/) | [@dchavezheras.bsky.social‬](https://bsky.app/profile/dchavezheras.bsky.social)
+
+Fundación Ramón Areces, Madrid 2025
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#2b1804" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="callout callout-color8">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-list" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+En los siguientes 45 minutos:  👇🏼  
+
+</div>
+</div>
+<div class="callout-content">
+
+1. ¿Qué y por qué ISSA?
+
+2. Antecedentes
+
+3. Ejemplos
+
+4. Producción cultural en la era de la IA
+
+</div>
+</div>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#304f5e" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cubes fa-5x" color="teal"></i>
+
+
+# 1. ¿Qué y por qué ISSA?
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/ISSA_1.png" alt="" style="object-fit: scale-down">
+</div>
+
+<aside class="notes"><p>En qué consiste el proyecto, sus socios y colaboradores, financiamiento, objetivos, y el programa de actividades.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="" style="position: absolute; left: 10%; top: 20%; height: 60%; width: 80%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+
+
+<div class="callout callout-color1">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-info-circle" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+ISSA - objetivos
+
+</div>
+</div>
+<div class="callout-content">
+
+- Impulsar **experimentación creativa con tecnologías de IA** para la preservación, acceso, y activación del patrimonio cultural audiovisual.
+
+
+
+- Desarrollar conocimiento, herramientas y habilidades para **rediseñar acervos audiovisuales** desde una perspectiva computacional interdisciplinaria.
+
+
+
+- Evaluar de manera crítica el potencial de diversas tecnologias de IA para **crear nuevos modos de interacción  y valor público** en organizaciones culturales como archivos de cine y televisión.
+
+</div>
+</div>
+</div>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background drop" data-background-color="#f4f4f4" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="BFI ONE LOTTERY_MONO POS (1).png" alt="" style="object-fit: scale-down">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background drop" data-background-color="#ffffff" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Pasted image 20250707125920.png" alt="" style="width: 900px; object-fit: fill">
+
+
+
+<img src="assets/images/ISSA_partners.png" alt="" style="width: 1000px; object-fit: fill">
+</div>
+
+<aside class="notes"><div class="callout callout-color1">
+<div class="callout-title">
+<div class="callout-icon">
+
+<p><i class="fas fa-info-circle" ></i></p>
+</div>
+<div class="callout-title-inner">
+
+<p>ISSA partners </p>
+</div>
+</div>
+<div class="callout-content">
+
+<ul>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3782417">North West Film Archive</a></p>
+</li>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3392648">National Library of Scotland</a></p>
+</li>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3398513">Yorkshire Film Archive</a></p>
+</li>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3398515">Northern Ireland Screen Commission</a></p>
+</li>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3398549">National Library of Wales</a></p>
+</li>
+<li><p><a href="https://kcl-research.worktribe.com/record.jx?recordid=3782422">Film Archives UK</a> (convening partner)</p>
+</li>
+</ul>
+</div>
+</div>
+
+<p>UK scope, one archive in each country.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background drop" data-background-color="#ffffff" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/2025-03-05_issa-kdl/Slide1.jpg" alt="" style="width: 1300px; object-fit: fill">
+
+https://kdl.kcl.ac.uk/​
+</div>
+
+<aside class="notes"><p><a href="https://kdl.kcl.ac.uk/about/team/">https://kdl.kcl.ac.uk/about/team/</a> ​
+<a href="https://kdl.kcl.ac.uk/projects/research-themes/">https://kdl.kcl.ac.uk/projects/research-themes/</a>
+<a href="https://kdl.kcl.ac.uk/faqs/">https://kdl.kcl.ac.uk/faqs/</a> </p>
+<p>King’s Digital Lab (KDL) is una unidad de la universidad dedicada a la Ingeniería de software para investigacióna (Research Software Engineering). Es partre de la Facultad de Artes y Humanidades. </p>
+<ul>
+<li>100 Digital Humanities projects collected over the past two decades </li>
+<li>~20 projects in active development</li>
+<li>~60+ sixty projects in various post-funding states, con HEIs, GLAM, industrias creativas</li>
+</ul>
+<p>The role of KDL is to design and deliver the core research and development provision for the ISSA, including applied expertise in machine learning in cultural domains. Learn more about King’s Digital Lab by browsing some of its <a href="https://kdl.kcl.ac.uk/projects/">recent projects</a>.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background drop" data-background-color="#ffffff" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/ISSA_summary.png" alt="" style="object-fit: scale-down">
+</div>
+
+<aside class="notes"><p>Daniel</p>
+<h3 id="aims-and-objectives">Aims and objectives</h3>
+<p>To drive <strong>creative experimentation with AI technologies</strong> in the screen heritage sector by developing the knowledge, tools, and skills needed to rethink large audiovisual collections from a computational perspective. </p>
+<p>ISSA aims to build understanding of AI technologies that are relevant for moving image archives and to explore the potential of these technologies to add public value to screen heritage organisations in their wider contexts.</p>
+<p>To do this, we will:</p>
+<ol>
+<li>Develop a prototype for creative experimentation with moving image collections, including modules for data enrichment, exploration, retrieval, and interaction (DEERIN); </li>
+<li>Co-design of situated experimentation workshops delivered through a format called AI for Media Sandbox (AIMS); </li>
+<li>Create a publicly accessible code repository and knowledge base for archives to document these experiments and share tools, knowledge and best practice that arises from them; and </li>
+<li>Document requirements and sector gaps that can be used to attract future funding and inform strategic decisions about AI in moving image archives.</li>
+</ol>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background drop" data-background-color="#ffffff" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/ISSA_roadmap.png" alt="" style="object-fit: scale-down">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/ISSA_web_snap.png" alt="" style="width: 1000px; object-fit: fill">
+
+[BFI press release](https://core-cms.bfi.org.uk/media/39909/download "https://core-cms.bfi.org.uk/media/39909/download")  ·  [ISSA website](https://www.kcl.ac.uk/research/issa "https://www.kcl.ac.uk/research/issa")
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/ISSA_FAQ 1.png" alt="" style="width: 1000px; object-fit: fill">
+
+[ISSA code repository and WIKI](https://github.com/kingsdigitallab/issa/wiki/Frequently-Asked-Questions)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#304f5e" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cubes-stacked fa-5x" color="teal"></i>
+
+
+# 2. Antecedentes
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="media/anatomy_of_ai.png" alt="" style="width: 1500px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>This was a project in experimental television, in hindsight it was very much of its time, and frankly, as time goes by I am more and more surprised that no one stopped us from doing it. </p>
+<p>In light of everything that happened after with AI, this project stands a somewhat of a quaint expression of many of the issues discussed yesterday, from access and copyright, to the role of generative technologies and their impact on screen culture today.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="media/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg" alt="" style="width: 1200px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>A project in 2018 to &quot;machine-see&quot; the BBC television archive, and &quot;machine-edit&quot; new sequences &quot;television by the meter&quot; ―we jokingly referred to it.</p>
+<p>Aired on BBC 4 on September 2018, seen by half a million people in the UK.
+It included four sections that corresponded to different computational techniques to traverse the archive: including text analysis over subtitled material, object detection, motion estimation (visual energy), and a mixed between the three (what we would call today a multimodal method).</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<iframe src="https://player.vimeo.com/video/429123060?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="1. Made by Machine: Introduction"></iframe>
+</div>
+
+<aside class="notes"><p>The possibilities and limitations of AI models in the context of moving image archives.
+Analysis = generation.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<split even gap="3">
+
+<img src="media/599f364553168e0448c2566cb33d0c94_MD5.png" alt="" style="width: 700px; object-fit: fill">
+
+
+<img src="assets/images/bce88512ea3044d00c7c54c1897bade9_MD5.png" alt="" style="width: Open; object-fit: fill">
+
+
+
+</split>
+</div>
+
+<aside class="notes"><p>In my book I focus on moving images: artefacts in and of motion that structure cognitive and affective responses in their audiences.</p>
+<p>The first two moments: two chapter from my new book in which I discuss philosophies of time and temporal dynamics in moving images from a computational perspective. 
+I will present a very condensed version the these chapters as a theoretical foundation, as well as ongoing research of how these concepts can be applied in practice.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/Grandmas_Reading_Glass_1900.mp4"
+          data-background-video-loop data-background-video-muted>
+    <aside class="notes">
+          <p>One part of the answer is that this ability to watch films was learned over time. It was not always the case that we knew how to interpret a close up, for example. On screen you see one of the earliest recordings of a close ups in a film. 
+		<p>_Grandma's Reading Glass_ (c.1900) by George Albert Smith.
+		<p>At the time, the close up was a technical novelty. These early films are demonstrations of technology more than anything else. Through social exposure and continued use over time, techniques like the close up became formal conventions ― the pieces in a larger aesthetic apparatus of cinema.
+     </aside>
+</section>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="media/71efe22f312e3f76e247f72f0e7f3e00_MD5.png" alt="" style="width: 1500px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>Using computer vision, we can enlist computers to see these images in our behalf to find some of the patterns that emerge from conventional narrative techniques. For example the shot-reverse-shot, commonly used to depict conversations between characters. Using face detection, it is possible to get a sense of how cinematic discourse is constructed through editing: from wider shots that establish the relations between characters and their environment, progressively in...</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="media/95145a7104d332087db98530f2d0c248_MD5.png" alt="" style="width: 1500px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>...to close ups that show characters&#39; inner states, intentions, and reactions, through their facial expressions. David Bordwell calls this editing style from the general to the particular <em>analytical editing</em>.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Distribución de duraciones de planos
+
+<img src="media/shot_histogram.jpeg" alt="" style="width: 1200px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>conventional statistics give overview of this dataset of shots</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Cálculo de escala de planos
+
+<img src="media/schot_scale_detector.jpg" alt="" style="width: 1500px; object-fit: fill">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Distribución de escalas de planos
+
+<img src="media/shot_scale_chart.jpeg" alt="" style="width: 1200px; object-fit: fill">
+</div>
+
+<aside class="notes"><p>more sophisticated tools to do this now, like Cineshot deep learning method to find shot scale in films</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="media/46ff8796887a813b083c83026462362d_MD5.png" alt="" style="object-fit: scale-down">
+</div>
+
+<aside class="notes"><p>At the same time, we admit film&#39;s capacity to dilate and compress time at the level of shots and sequences. The interplay between these two properties makes films both structured and elastic, mechanistically bound but expressively designed. </p>
+<p>At this micro level, we can recognise at least two types of differences: strong higher but small differences between continuous frames, and weak but larger differences in contiguous shots. High frequency, small variation vs lower frequency and higher variation.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Burch Computacional
+
+<img src="assets/images/Pasted image 20241015225413.png" alt="" style="object-fit: scale-down">
+</div>
+
+<aside class="notes"><p>Temporal structure in film is usually broken down analytically into sequences, scenes, and shots. These are units with which filmmakers and film editors design an intelligible whole from a pool of possible parts, most often recorded in various locations at separate times and in a different order.
+Bong Joon-­Ho and Herzog</p>
+<p>With a background in music, Burch classifies the ways in which a film can be edited by identifying all possible space-­time articulations that describe a minimal relation that exists between any two consecutive shots, like the ‘notes’ of a film.</p>
+<p>A set of formal ‘objects’ – the fifteen different types of shot transitions and the
+parameters that define ­them – capable of rigorous development through such devices as rhythmic alternation, recapitulation, retrogression, gradual elimination, cyclical repetition, and serial variation, thus creating structures similar to those of
+twelve-­tone music. (Burch, 1981, p. 14)</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/Pasted image 20241015225539.png" alt="" style="object-fit: scale-down">
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<split even gap="3">
+
+<img src="assets/images/Pasted image 20241015225745.png" alt="" style="width: 750px; object-fit: fill">
+
+
+<img src="assets/images/Pasted image 20241015225830.png" alt="" style="width: 750px; object-fit: fill">
+
+
+</split>
+</div>
+
+<aside class="notes"><p>difference in time and space articulations</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Experimentos de visualización de montaje
+
+<img src="assets/images/Pasted image 20241016000527.png" alt="" style="width: 1700px; object-fit: fill">
+
+Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/Pasted image 20241016000458.png" alt="" style="width: 1700px; object-fit: fill">
+
+Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/Pasted image 20241016000419.png" alt="" style="width: 1700px; object-fit: fill">
+
+Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/Pasted image 20241016000617.png" alt="" style="width: 1700px; object-fit: fill">
+
+Image credit: [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#304f5e" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cubes fa-5x" color="teal"></i>
+
+
+# 3. Ejemplos
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="" style="position: absolute; left: 10%; top: 20%; height: 60%; width: 80%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+
+
+<div class="callout callout-color3">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-check" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+El prototipo DDERIn busca:
+
+</div>
+</div>
+<div class="callout-content">
+
+- Facilitar la experimentación ágil con modelos existentes de IA, en el contexto de acervos audiovisuales, en sus contextos institucionales y applicado a sus colecciones.
+
+- Construir una base de conocimiento técnico y evidencia para que archivos audiovisuales decidan si, y como utilizar tecnologías de IA en sus organizaciones.
+
+</div>
+</div>
+
+<div class="callout callout-color7">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-bolt" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+El prototipo DDERIn no pretende:
+
+</div>
+</div>
+<div class="callout-content">
+
+- Desarrollar una plataforma, producto o servicio listo para mercado.
+
+- Aportar en todas las areas de preservacion y acceso del patrimonio audiovisual.
+
+- Entrenar nuevos models desde cero.
+
+</div>
+</div>
+
+</div>
+</div>
+
+<aside class="notes"><p>DDERIn es un modelo tecnico y conceptual para investigacion y desarollo.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="" style="position: absolute; left: 10%; top: 20%; height: 60%; width: 80%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+<div class="callout callout-color-default">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-pencil-alt" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+Aplicaciones
+
+</div>
+</div>
+<div class="callout-content">
+
+1. **Enriquecimiento**: generación de datos y metadatos para catálogo y acceso mediante LLMs y LVMs.
+
+2. **Exploración**: Navegación y visualisación de acervos mediante técnicas de proyeccion y clustering (t-SNE, UMAP).
+
+3. **Búsqueda**: Técnicas de búsqueda y recuperación semantica y multimodal (RAG, graphRAG).
+
+4. **Interacción**: aplicaciones e interfaces para reuso creativo.
+
+</div>
+</div>
+</div>
+</div>
+
+<aside class="notes"><p>The proposed DEERIN prototype will be designed as a modular system, using state-of-the-art open-source libraries and models, to provide a functional blueprint of how to enrich, explore and interact with a large collection of moving images.</p>
+<p>DEERIn is not a finished product or service, it is a tool for research and a technical blueprint for guided experimentation. We will not address every aspect of archival practice. We will not train new models from scratch. We will enable archives to experiment with existing state of the art open-source models in their own collections and contexts, to build the knowledge and evidence to decide if and how to use and develop AI products and services.</p>
+<p>The complementary AIMS workshops are designed to situate the prototype in different contexts, with budgeted time and resources to identify, sample and reshape collection asynchronously, and focus on creative experimentation and discussion in person.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="" style="position: absolute; left: 10%; top: 20%; height: 60%; width: 80%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+<div class="callout callout-color8">
+<div class="callout-title">
+<div class="callout-icon">
+
+<i class="fas fa-list" ></i>
+
+
+</div>
+<div class="callout-title-inner">
+
+Ejemplos
+
+</div>
+</div>
+<div class="callout-content">
+
+1. Segmentación semántica semi-automatizada
+
+2. Generación automatizada de audio descriptivo
+
+3. Búsqueda y recuperación multi modal
+
+4. Edición semi-automatizada para reuso creativo
+
+</div>
+</div>
+</div>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#5E4031" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cube fa-5x" color="#91634C"></i>
+
+
+## 3.1 Segmentación semántica semi-automatizada
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Experimentos con videocintas de H2022
+
+
+<split even gap="2">
+
+<img src="assets/images/a122d80981e384b79764ad1bf5a59ffb_MD5.png" alt="" style="object-fit: scale-down">
+
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1099640200?h=5f5805e1d4" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+</split>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#5E4031" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cube fa-5x" color="#91634C"></i>
+
+
+## 3.2 Generación automatizada de audio descriptivo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## DANTE-AD
+
+<img src="assets/images/b9495677f4e92c63797cc5d5076de55d_MD5.png" alt="" style="object-fit: scale-down">
+
+[Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/), [Simon Hadfield](https://www.surrey.ac.uk/people/simon-hadfield), [Andrew Gilbert](https://andrewjohngilbert.github.io/)
+
+C-CATS Lab University of Surrey
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/8d9e2328ea5c762dc340bb81396b537e_MD5.png" alt="" style="object-fit: scale-down">
+
+[Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/), [Simon Hadfield](https://www.surrey.ac.uk/people/simon-hadfield), [Andrew Gilbert](https://andrewjohngilbert.github.io/)
+
+C-CATS Lab University of Surrey
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#5E4031" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cube fa-5x" color="#91634C"></i>
+
+
+## 3.3 Búsqueda y recuperación multi modal
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## WISE-2
+
+<img src="assets/images/8547da2885922f896c0d0aee0559e6a0_MD5.png" alt="" style="width: 1000px; object-fit: fill">
+
+Motor de búsqueda multimodal [WISE](https://www.robots.ox.ac.uk/~vgg/software/wise/)
+
+[Abhishek Dutta](mailto:adutta@robots.ox.ac.uk) [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) University of Oxford.
+</div>
+
+<aside class="notes"><p><a href="https://www.robots.ox.ac.uk/~vgg/software/wise/">https://www.robots.ox.ac.uk/~vgg/software/wise/</a>
+<a href="https://meru.robots.ox.ac.uk/wise/pass/">https://meru.robots.ox.ac.uk/wise/pass/</a></p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#5E4031" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-cube fa-5x" color="#91634C"></i>
+
+
+## 3.4 Edición semi-automatizada para reuso creativo
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/f147e0b337ed2330668fd23c568251d0_MD5.png" alt="" style="object-fit: scale-down">
+
+K1 Adobe Premiere plugin para autoedición
+[KasparAI](https://kasparai.com/)
+</div>
+
+<aside class="notes"><p>K1 Adobe premier plugin for prom-editing</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="Pasted image 20250710230534.png" alt="" style="object-fit: scale-down">
+
+[PlayPhrase.me](https://www.playphrase.me/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/d9186f5ef3c80baab006b20a3d3d5143_MD5.png" alt="" style="object-fit: scale-down">
+
+[FrameSense](https://github.com/kingsdigitallab/framesense)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<img src="assets/images/eb246b12842e74b89e92a268cfd00055_MD5.png" alt="" style="object-fit: scale-down">
+
+[FrameSense](https://github.com/kingsdigitallab/framesense)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-dark-background drop" data-background-color="#304f5e" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<i class="fas fa-border-none fa-5x" color="teal"></i>
+
+
+# 4. Producción cultural en la era de la IA
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<div class="" style="position: absolute; left: 1%; top: undefined%; height: 20%; width: 55%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+> - Razonamiento deductivo
+> - Realismo estructural
+> - Relaciones de causalidad
+> - Mapeos y taxonomías
+</div>
+
+<div class="" style="position: absolute; left: 44%; top: undefined%; height: 20%; width: 55%; display: flex; flex-direction: column; align-items: center; justify-content: center" >
+
+> - Razonamiento inductivo
+> - Realismo relacional
+> - Relaciones de contigüidad
+> - Modelos y simulaciones
+</div>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 1200px; width: 1920px; min-height: 1200px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+<iframe width="1080" height="768" src="https://www.youtube.com/embed/CNIlqJctA_I?si=hassiNEby7XizlFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<aside class="notes"><p>El medio es el mensaje. Esto era cierto del radio, el cine y la television.
+El medio no es el artefacto, ni sus usuarios, sino la red de relaciones que se construyen cuando artefactos y audiencias entren en contacto. La diferencia clave con tecnologías de IA es que esta red invisible de relaciones ha sido capturada y abstraída en modelos comunicacionales capaces de reproducir la potencialidad de esta red de relaciones.
+El reto con la producción cultural en la era de la IA es que estos modelos de potencialidades latentes modifican radicalmente el modo de producción, preservación, y acceso, a la cultura.</p>
+<p>Benjamin Desai is a creative technologist and digital artist focused on AR and cofounder of Radical Realities, an award-winning immersive studio.  “Excited to share this imaginative look into an alternate past powered by Sora. Blending early 20th-century film aesthetics with whimsical scenarios and placing animals in unexpected roles. This work aims to ignite a sense of wonder while showcasing the potential of today&#39;s technology. Creating with Sora is still an experimental process, involving a lot of iteration and fine-tuning. It&#39;s much more of a human-AI collaboration than a magic button solution. Check out these fascinating animals and the joy of asking &#39;what if?&#39;”</p>
+<p>Analytic and generative approaches in computing tend to be split between scientific and creative domains, with their respective tools and communities of practice.</p>
+<p>Deployed as analytical engines, computers can be used to find patterns across vast collections of imagery, and these patterns are often expressed as relations of proximity in space. We have seen examples of this yesterday in multiple way of projecting archives onto 2d or 3d spaces.</p>
+<p>The image in this slide shows a t-SNE mapping of a collection of soviet news reels. The dataset and the tool were developed by colleagues in CUDAN from the cultural data analytics lab in Tallinn, Estonia.</p>
+<p>But to amount to knowledge, these spatial correlations require interpretation and explanation, which require relations of necessity, not just proximity, and tend to unfold sequentially, as researchers, critics and users seek to organise these patterns to infer causal relations and plausible reasons for data objects and events to be organised in space the way they are.</p>
+<p>By coupling an analytical engine with a generative one, computing can be used to configure narratives about these proximity patterns and enable explanatory propositions through compositional techniques familiar to media scholarship.</p>
+</aside></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/math/math.js"></script>
+	<script src="plugin/mermaid/mermaid.js"></script>
+	<script src="plugin/chart/chart.min.js"></script>
+	<script src="plugin/chart/plugin.js"></script>
+	<script src="plugin/customcontrols/plugin.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+	  function isLight(color) {
+		let hex = color.replace('#', '');
+
+		// convert #fff => #ffffff
+		if(hex.length == 3){
+			hex = `${hex[0]}${hex[0]}${hex[1]}${hex[1]}${hex[2]}${hex[2]}`;
+		}
+
+		const c_r = parseInt(hex.substr(0, 2), 16);
+		const c_g = parseInt(hex.substr(2, 2), 16);
+		const c_b = parseInt(hex.substr(4, 2), 16);
+		const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+		return brightness > 155;
+	}
+
+	var bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+	var isLight = isLight(bgColor);
+
+	if(isLight){
+		document.body.classList.add('has-light-background');
+	} else {
+		document.body.classList.add('has-dark-background');
+	}
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath.MathJax3,
+		  RevealMermaid,
+		  RevealChart,
+		  RevealCustomControls,
+        ],
+
+
+    	allottedTime: 120 * 1000,
+
+		mathjax3: {
+			mathjax: 'plugin/math/mathjax/tex-mml-chtml.js',
+		},
+		markdown: {
+		  gfm: true,
+		  mangle: true,
+		  pedantic: false,
+		  smartLists: false,
+		  smartypants: false,
+		},
+
+		mermaid: {
+			theme: isLight ? 'default' : 'dark',
+		},
+
+		customcontrols: {
+			controls: [
+				{id: 'toggle-overview',
+				title: 'Toggle overview (O)',
+				icon: '<i class="fa fa-th"></i>',
+				action: 'Reveal.toggleOverview();'
+				},
+			]
+		},
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"width":1920,"height":1200,"margin":0,"controls":true,"progress":true,"slideNumber":true,"transition":"slide","transitionSpeed":"default"}, queryOptions);
+    </script>
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+
+  <!-- created with Advanced Slides -->
+</html>
