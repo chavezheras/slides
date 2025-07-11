@@ -157,7 +157,7 @@ To do this, we will:
 ---
 
 <!-- slide bg="#304f5e" -->
-![](fas fa-cubes-stacked fa-5x) <!-- .element: color="teal" -->
+![](fas fa-square fa-5x) <!-- .element: color="teal" -->
 
 # 2. Antecedentes
 
