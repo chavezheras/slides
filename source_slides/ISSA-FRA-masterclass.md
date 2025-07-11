@@ -516,3 +516,16 @@ The image in this slide shows a t-SNE mapping of a collection of soviet news ree
 But to amount to knowledge, these spatial correlations require interpretation and explanation, which require relations of necessity, not just proximity, and tend to unfold sequentially, as researchers, critics and users seek to organise these patterns to infer causal relations and plausible reasons for data objects and events to be organised in space the way they are.
 
 By coupling an analytical engine with a generative one, computing can be used to configure narratives about these proximity patterns and enable explanatory propositions through compositional techniques familiar to media scholarship.
+
+---
+
+![[Pasted image 20250711092721.png]]
+https://zenodo.org/records/15083396
+
+---
+
+![[Pasted image 20250711092853.png]]https://www.ccpahc.ac.uk/
+
+---
+
+![[Pasted image 20250711093147.png]]
