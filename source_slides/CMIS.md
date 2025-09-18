@@ -280,7 +280,7 @@ Environment: Nvidia 4090 (24GB), 128GB RAM, AMD Ryzen Threadripper 1950X 16-Core
 
 ---
 
-![[Pasted image 20250701114137.png|1000]]
+![[frame_sense_screenshot.png|1000]]
 [FrameSense](https://github.com/kingsdigitallab/framesense/tree/main)
 
 note:

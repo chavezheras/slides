@@ -238,7 +238,7 @@ K1 Adobe premier plugin for prom-editing
 
 
 <!-- slide bg="#5E4031" -->
-![](fas fa-cube fa-5x) <!-- .element: color="#91634C" -->
+![](fas fa-cubes fa-5x) <!-- .element: color="#91634C" -->
 
 ##  Connecting tools with use cases 
 
@@ -246,13 +246,12 @@ A middleware layer to reshape moving image collections into data that is useful 
 
 ---
 
-
-![[assets/images/d9186f5ef3c80baab006b20a3d3d5143_MD5.png]]
+![[frame_sense_screenshot.png|1000]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
 ---
 
-![[assets/images/eb246b12842e74b89e92a268cfd00055_MD5.png]]
+![[frame_sense_diagram.png]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
 ---
@@ -268,8 +267,6 @@ A middleware layer to reshape moving image collections into data that is useful 
 > - Prototype demonstrator event in February!
 > - AIMS workshops
 
-> 
-
 
 note:
 More details in Wiki
@@ -283,7 +280,7 @@ More details in Wiki
 ![](fas fa-envelope fa-3x)<!-- .element: color="#b5788d"--> 
  issa@kcl.ac.uk
 
-![](media/qr_issa_web.png)
+![[qr_issa_web.png]]
 
 
 ---
