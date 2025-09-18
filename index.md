@@ -1,4 +1,5 @@
 #Slides
+- [ISSA September 2025 update](rendered/ISSA-Sept2025)
 - [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
 - [Computational Moving Images at Scale HD+RSE Summer School 2025](rendered/CMIS)
 - [ISSA BFI 2025](rendered/ISSA-BFI-2025)

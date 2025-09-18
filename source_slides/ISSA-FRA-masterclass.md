@@ -457,7 +457,7 @@ note:
 K1 Adobe premier plugin for prom-editing
 
 ---
-![[Pasted image 20250710230534.png]]
+![[playphrase_me.png.png]]
 [PlayPhrase.me](https://www.playphrase.me/)
 
 ---
