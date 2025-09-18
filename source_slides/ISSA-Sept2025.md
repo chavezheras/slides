@@ -246,12 +246,12 @@ A middleware layer to reshape moving image collections into data that is useful 
 
 ---
 
-![[frame_sense_screenshot.png|1000]]
+![[assets/images/frame_sense_screenshot.png|1000]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
 ---
 
-![[frame_sense_diagram.png]]
+![[assets/images/frame_sense_diagram.png]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
 ---
@@ -280,7 +280,7 @@ More details in Wiki
 ![](fas fa-envelope fa-3x)<!-- .element: color="#b5788d"--> 
  issa@kcl.ac.uk
 
-![[qr_issa_web.png]]
+![[assets/images/qr_issa_web.png]]
 
 
 ---
