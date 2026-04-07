@@ -1,10 +1,10 @@
 ---
-title: ISSA-Demo
+title: ISSA-EU-Screen-2026
 draft: false
 tags:
   - presentation
-date_created: 24 March 2026
-date_modified: 24 March 2026
+date_created: 7 April 2026
+date_modified: 7 April 2026
 margin: 0
 width: 1920
 height: 1200
@@ -14,7 +14,7 @@ theme: black
 
 
 ![[ISSA_1.png]]
-### Demonstrator 2026
+### Eu Screen Symposium 2026
 
 --
 
@@ -41,6 +41,14 @@ Collaboration and deeper integration is the path forward
 <!-- slide bg="#f4f4f4" -->
 
 ![[assets/images/ISSA_partners.png|1200]]
+
+Project team:
+- [Geoffroy Noël](https://www.kcl.ac.uk/people/geoffroy-noel)
+- [Paul Caton](https://www.kcl.ac.uk/people/paul-caton-1)
+- [Tiffany Ong](https://kdl.kcl.ac.uk/about/people/tiffany-ong/)
+- [Miguel Vieira](https://www.kcl.ac.uk/people/miguel-vieira)
+- [Arianna Ciula](https://www.kcl.ac.uk/people/arianna-ciula)
+- [Daniel Chávez Heras](https://movingpixel.net/)
 
 --
 
@@ -72,7 +80,7 @@ ISSA adopts a human-centred design approach to technology development. In practi
 
 ![[ISSA_roadmap_updated_2026.png]]
 
-### Roadmap
+### ISSA Roadmap
 
 note:
 ## Milestones and weekly breakdown (first phase)
@@ -119,7 +127,7 @@ note:
 note:
 More details in Wiki
 
----
+--
 
 > [!question]  What is an MVP
 >  Minimum Viable Product — the most stripped-down version of an idea
@@ -127,7 +135,7 @@ More details in Wiki
 >  - Not a finished product — the kernel of one
 >  - Can be developed in multiple directions
 
----
+--
 
 > [!question]  Why MVPs
 >Test ideas early, iterate faster, develop collectively
@@ -136,7 +144,7 @@ More details in Wiki
 >- Give archives a stake in AI R&D — not just as users, but as co-developers
 
 
----
+--
 
 > [!question]  How to approach today's MVPs
 >Starting points, not endpoints
@@ -171,7 +179,11 @@ Collaboration and deeper integration is the path forward
 
 ---
 
+![[MVP_1_1.png]]
 
+---
+
+![[MVP_1_2.png]]
 
 ---
 
@@ -185,7 +197,11 @@ Using multi-modal embeddings to surface local and regional references in archive
 
 ---
 
+![[MVP_2_1.png]]
 
+---
+
+![[MVP_2_2.png]]
 
 ---
 
@@ -197,6 +213,9 @@ Using multi-modal embeddings to surface local and regional references in archive
 Using specialised open-source models to generate audio descriptions of archive material
 
 ---
+
+![[MVP_3_1.png]]
+
 
 --
 ## DANTE-AD
@@ -223,7 +242,19 @@ C-CATS Lab University of Surrey
 
 Combine the outputs and techniques from 1-3 to prototype interfaces for creative re-use
 
+---
+![[MVP_4_1.png]]
+
+---
+
+![[MVP_4_2.png]]
+
+---
+
+![[MVP_4_3.png]]
+
 --
+
 
 <split even gap="2">
 
@@ -258,8 +289,6 @@ K1 Adobe premier plugin for prom-editing
 ![[media/playphrase_me.png.png]]
 [PlayPhrase.me](https://www.playphrase.me/)
 
----
-
 
 ---
 
@@ -273,7 +302,7 @@ A middleware layer to reshape moving image collections into data that is useful 
 
 ---
 
-![[assets/images/frame_sense_screenshot.png|1000]]
+![[framesense_2026.png|1200]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
 ---
@@ -281,84 +310,37 @@ A middleware layer to reshape moving image collections into data that is useful 
 ![[assets/images/frame_sense_diagram.png]]
 [FrameSense](https://github.com/kingsdigitallab/framesense)
 
----
-
-<!-- slide bg="#5E4031" -->
-![](fas fa-link fa-5x) <!-- .element: color="#91634C" -->
-
-##  Chain of development example
-
-Locating individual TV adverts with precision using semantic segmentation
-
 
 ---
 
-<!-- slide bg="#992d51" -->
-
-## Q&A
-![](fas fa-question-circle fa-5x) <!-- .element: color="#b5788d" -->
-
----
-
-<!-- slide bg="#992d51" -->
-
-## Time for lunch!
-![](fas fa-utensils fa-5x) <!-- .element: color="#b5788d" -->
+> [!tip] ISSA Demonstrator
+> 
+> From Prototypes to Situated Application
+> - **March 2026**: First collective encounter between archives and technical team
+> - Morning: Demonstrations of four minimum viable products (MVPs)
+> - Afternoon: x3 structured working sessions with all five archive partners
 
 
----
-
-<!-- slide bg="#992d51" -->
-
-## Working session 1
-### Users/Features/Actions
-![](fas fa-tools fa-5x) <!-- .element: color="#b5788d" -->
+> [!done] ISSA Demo Outputs
+> - ~120 User-Feature-Action cards capturing what archives imagine the MVPs could do in their own institutional contexts
+> -  Structured input on actual legal barriers, institutional willingness, realistic use cases, labour implications, sustainability
+> - Scheduling framework to plan Year 2 workshops
 
 ---
 
+> [!todo] Seven early lessons from ISSA
+> **1. Precision and discovery aren't opposites**
+> **2. The backlog is the entry point**
+> **3. Accessibility is common ground** 
+> **4. Integration is harder than capability**
+> **5. Human oversight is assumed, not optional** 
+> **6. Sustainability remains an unanswered question** 
+> **7. Knowledge compounds; tokens don't**
 
-<!-- slide bg="#992d51" -->
-
-## Working session 2
-### Sector opportunities
-![](fas fa-tools fa-5x) <!-- .element: color="#b5788d" -->
-
----
-
-
-<!-- slide bg="#992d51" -->
-
-## Working session 3
-### AIMS Workshops planning
-![](fas fa-tools fa-5x) <!-- .element: color="#b5788d" -->
-
----
-
-
-<!-- slide bg="#992d51" -->
-
-## End of programme
-![](fas fa-bullseye fa-5x) <!-- .element: color="#b5788d" -->
-
----
-
-
----
-
-> [!example]  Next steps 2025
-> - MVPs for each use case
-> - Licencing agreements for data sharing
-> - Technical solution for data sharing
-> - Eliciting data from archive partners
-> - Prototype development
-
-> [!tip]  Looking forward to 2026
-> - Prototype demonstrator event in February!
-> - AIMS workshops
-
+> [!tip] Every hour spent understanding _how_ a tool works — its limits, its biases, its fit with collections — builds capacity that stays with the institution. Outputs purchased from vendors do not.
 
 note:
-More details in Wiki
+**Speaker notes:** These aren't conclusions — we're eighteen months into a thirty-month project. But the pattern is clear: archives are pragmatic, cautious, and collaborative. They want tools that solve real problems, fit real workflows, and leave knowledge behind. That's the case for investing in open, modular infrastructure rather than buying outputs by the token.
 
 ---
 
@@ -373,3 +355,16 @@ More details in Wiki
 
 
 ---
+
+![[Book_paperback.png]]
+
+---
+
+
+<!-- slide bg="#992d51" -->
+
+## Q&A
+![](fas fa-question-circle fa-5x) <!-- .element: color="#b5788d" -->
+
+---
+
