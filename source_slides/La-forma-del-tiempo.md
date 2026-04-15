@@ -711,7 +711,7 @@ Environment: Nvidia 4090 (24GB), 128GB RAM, AMD Ryzen Threadripper 1950X 16-Core
 
 ---
 
-![[frame_sense_diagram.png]]
+![[assets/images/frame_sense_diagram.png]]
 
 
 ---
