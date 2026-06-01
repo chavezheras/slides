@@ -1,31 +1,56 @@
 
-- [Chronomorphē](rendered/chrono-morphe/)
-- [Topologies of Time](rendered/Topologies-of-Time/)
+# 🎞️ Slides
+
+Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https://movingpixel.net/)
+
+---
+
+## 🎤 Talks & Public Lectures
+
+- [Chronomorphē — Computational Models of Cinematic Time](rendered/chrono-morphe/) · Hong Kong, 2026
+- [Topologies of Time — Temporal Parts in High-Dimensional Space](rendered/Topologies-of-Time/) · London, 2026
+- [Geometries of Time](rendered/Geometries-of-Time)
+- [Counting the Invisible](rendered/Counting_the_invisible)
+- [Cultural Analytics — EPFL](rendered/creanalytics)
+- [Ojos que no ven — IBERO](rendered/Ojos-que-no-ven)
+- [B3 — Part 1](rendered/B3_1)
+- [B3 — Part 2](rendered/B3_2)
+
+---
+
+## 🔬 Projects
+
+### ISSA — Intelligent Screen Systems Archive
+
 - [ISSA 2026](rendered/ISSA-2026)
 - [ISSA Demonstrator 2026](rendered/ISSA-Demonstrator)
-- [ISSA September 2025 update](rendered/ISSA-Sept2025)
-- [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
-- [Computational Moving Images at Scale HD+RSE Summer School 2025](rendered/CMIS)
+- [ISSA September 2025](rendered/ISSA-Sept2025)
 - [ISSA BFI 2025](rendered/ISSA-BFI-2025)
 - [ISSA QMUL](rendered/ISSA-QMUL)
-- [ISSA townhall](rendered/ISSA-townhall)
-- [Geometries of Time](rendered/Geometries-of-Time)
-- [IBERO diapositivas](rendered/Ojos-que-no-ven)
-- [EPFL slides](rendered/creanalytics)
-- [B3_1 slides](rendered/B3_1)
-- [B3_2 slides](rendered/B3_2)
-- [Counting the invisible](rendered/Counting_the_invisible)
-- [AI&Soc reading list](rendered/AI&Soc_reading_list)
-- [Week 2 Lecture ― Learning machine learning](rendered/w2-machine-learning)
-- [Week 4 Lecture ― Seeing like a machine](rendered/w4-machine-vision)
+- [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
+- [ISSA Townhall](rendered/ISSA-townhall)
+- [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS)
+
+---
+
+## 🎓 Teaching
+
+### 7AAVDC42 — AI & Society
+
+- [Week 2 — Learning Machine Learning](rendered/w2-machine-learning)
+- [Week 4 — Seeing Like a Machine](rendered/w4-machine-vision)
 - [Week 4 Seminar](rendered/w4-machine-vision-sem)
-- [Week 8 Lecture ― Faces and Identitities](rendered/w8-faces-identitties)
-- [Week 9 Lecture ― Creativity and Authorship](rendered/w9-creativity-authorship)
-- [Week 11 Lecture ― AI Narratives](rendered/w11-AI-narratives)
-- [7AAVDM52 W2 Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
-- [7AAVDM52 W7 Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
-- [7AAVDM52 projects](rendered/w7-7AAVDM52-acquisition&preprocessing/projects)
-- [7AAVDM52 W8 RAWGraphs](rendered/w8-7AAVDM52-RAWGraphs)
-- [7AAVDM52 W9 D3.js](rendered/w9-7AAVDM52-D3JS)
-- [7AAVDM52 W10 Storytelling](rendered/w10-7AAVDM52-storytelling)
-- [7AAVDM52 W11 Complexity](rendered/w11-7AAVDM52-complexity)
+- [Week 8 — Faces and Identities](rendered/w8-faces-identitties)
+- [Week 9 — Creativity and Authorship](rendered/w9-creativity-authorship)
+- [Week 11 — AI Narratives](rendered/w11-AI-narratives)
+- [AI & Society Reading List](rendered/AI&Soc_reading_list)
+
+### 7AAVDM52 — Digital Methods
+
+- [W2 — Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
+- [W7 — Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
+- [W7 — Projects](rendered/w7-7AAVDM52-acquisition&preprocessing/projects)
+- [W8 — RAWGraphs](rendered/w8-7AAVDM52-RAWGraphs)
+- [W9 — D3.js](rendered/w9-7AAVDM52-D3JS)
+- [W10 — Storytelling](rendered/w10-7AAVDM52-storytelling)
+- [W11 — Complexity](rendered/w11-7AAVDM52-complexity)
