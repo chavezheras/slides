@@ -33,13 +33,6 @@ London, May 2026
 
 ---
 
-> [!question] What shape should we give to time?
-> - Does time have a mind-independent structure?
-> - Subjective experience of time
-> - Computational representations of time
-
----
-
 <split even gap="3">
 ![[media/599f364553168e0448c2566cb33d0c94_MD5.png|500]]
 
@@ -52,9 +45,24 @@ London, May 2026
 
 </split>
 
+---
+
+
+> [!question] What shape should we give to time?
+> - Does time have a mind-independent structure?
+> - Subjective experience of time
+> - Computational representations of time
+
 
 ---
-·
+
+> [!list] Three concepts of time
+> - Time as change
+> - Time as record
+> - Time as landscape
+
+---
+
 
 <!-- slide bg="#304f5e" -->
 
@@ -107,7 +115,7 @@ note:
 --
 
 
-![[rendered/creanalytics/assets/images/schot_scale_detector.jpg|1500]]
+![[assets/images/schot_scale_detector.jpg|1500]]
 
 note:
 By detecting faces, a basic ratio calculation between bounding boxes and frame size can be used as a proxy for shot scale, thus creating a shot scale detector, that can extend this computational exploration of film style to cover large collections of moving images, like film archives and online video platforms.
@@ -115,13 +123,12 @@ By detecting faces, a basic ratio calculation between bounding boxes and frame s
 --
 
 
-![[rendered/B3_2/media/shot_scale_chart.jpeg|1500]]
+![[assets/images/shot_scale_chart.jpeg|1500]]
 
 note:
 And this in turn opens the door to different kinds of statistical analysis along the lines of how stylometry is applied to text to perform distant reading of literary collections by essentially different forms of counting words in a corpus. On screen you see a breakdown by shot scale of a corpus of ~2700 clips of 350 popular Hollywood films, released between 1931 and 2019, from 287 unique directors.
 
 ---
-·
 
 
 <!-- slide bg="#304f5e" -->
@@ -197,7 +204,7 @@ At this micro level, we can recognise at least two types of differences: strong 
 I'm going to show you a clip
 
 ---
-·
+
 
 <!-- slide bg="#304f5e" -->
 
@@ -259,7 +266,7 @@ Tarkovsky points to this strange notion of a film that edits itself, I think thi
 ---
 <section data-background-video="https://github.com/chavezheras/slides/raw/main/assets/gpu_anim_bg.mp4"
           data-background-video-loop data-background-video-muted>
-          <h2 class="r-fit-text">== · Different shapes of time · ==</h2>
+          <h2 class="r-fit-text">== · Two shapes of time · ==</h2>
           <aside class="notes">
           <p> We know from physics that the shape of time is very different to our psychological experience of time. In special relativity time warps with space as an expression of gravity; quantum mechanics are time symmetrical, in quantum gravity theories time disappears altogether.  We also know that language plays a role in this experience, and that the way we speak and think about time is not universal, the Aymara is a tenseless language, and its speakers think of the past as in front of them and the future behind them.
           You are a “spacetime worm” that curves through the four-dimensional manifold known as spacetime.
