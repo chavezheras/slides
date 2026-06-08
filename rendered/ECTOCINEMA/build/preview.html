@@ -1,0 +1,12 @@
+<!doctype html><html><body style="background:#0d1322;margin:0;padding:40px;display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+<div style="background:#0d1322;color:#fff;font-family:sans-serif;">
+<div id="a"></div>
+</div>
+<div style="background:#0d1322;color:#fff;font-family:sans-serif;">
+<div id="b"></div>
+</div>
+<script>
+fetch('timeline.svg').then(r=>r.text()).then(t=>document.getElementById('a').innerHTML=t);
+fetch('timemesh.svg').then(r=>r.text()).then(t=>document.getElementById('b').innerHTML=t);
+</script>
+</body></html>
