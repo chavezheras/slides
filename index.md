@@ -1,5 +1,5 @@
 
-# 🎞️ Slides
+# 🖵  Slides
 
 Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https://movingpixel.net/)
 
@@ -10,6 +10,7 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 - [Chronomorphē — Computational Models of Cinematic Time](rendered/chrono-morphe/) · Hong Kong, 2026
 - [Topologies of Time — Temporal Parts in High-Dimensional Space](rendered/Topologies-of-Time/) · London, 2026
 - [Geometries of Time](rendered/Geometries-of-Time)
+- [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS)
 - [Counting the Invisible](rendered/Counting_the_invisible)
 - [Cultural Analytics — EPFL](rendered/creanalytics)
 - [Ojos que no ven — IBERO](rendered/Ojos-que-no-ven)
@@ -29,7 +30,10 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 - [ISSA QMUL](rendered/ISSA-QMUL)
 - [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
 - [ISSA Townhall](rendered/ISSA-townhall)
-- [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS)
+
+### ECTOCINEMA
+
+-[ECTOCINEMA](rendered/ECTOCINEMA)
 
 ---
 
@@ -45,7 +49,7 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 - [Week 11 — AI Narratives](rendered/w11-AI-narratives)
 - [AI & Society Reading List](rendered/AI&Soc_reading_list)
 
-### 7AAVDM52 — Digital Methods
+### 7AAVDM52 — Data Visualisation
 
 - [W2 — Perception and Emotion](rendered/w2-7AAVDM52-perception_emotion)
 - [W7 — Data Acquisition and Cleaning](rendered/w7-7AAVDM52-acquisition&preprocessing)
