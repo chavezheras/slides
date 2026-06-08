@@ -34,7 +34,7 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 
 ### ECTOCINEMA
 
--[ECTOCINEMA](rendered/ECTOCINEMA)
+- [ECTOCINEMA](rendered/ECTOCINEMA)
 
 ---
 
