@@ -9,13 +9,14 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 
 - [Chronomorphē — Computational Models of Cinematic Time](rendered/chrono-morphe/) · Hong Kong, 2026
 - [Topologies of Time — Temporal Parts in High-Dimensional Space](rendered/Topologies-of-Time/) · London, 2026
-- [Geometries of Time](rendered/Geometries-of-Time)
-- [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS)
-- [Counting the Invisible](rendered/Counting_the_invisible)
-- [Cultural Analytics — EPFL](rendered/creanalytics)
-- [Ojos que no ven — IBERO](rendered/Ojos-que-no-ven)
-- [B3 — Part 1](rendered/B3_1)
-- [B3 — Part 2](rendered/B3_2)
+- [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS) · London, 2025
+- [Ojos que no ven — IBERO](rendered/Ojos-que-no-ven) · Mexico City, 2025
+- [Geometries of Time](rendered/Geometries-of-Time) · Lisbon, 2024
+- [Counting the Invisible](rendered/Counting_the_invisible) · London, 2023
+- [Cultural Analytics — EPFL](rendered/creanalytics) · Lausanne, 2023
+
+- [B3 — Part 1](rendered/B3_1) · Frankfurt, 2023
+- [B3 — Part 2](rendered/B3_2) · Frankfurt, 2023
 
 ---
 
@@ -29,7 +30,7 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 - [ISSA BFI 2025](rendered/ISSA-BFI-2025)
 - [ISSA QMUL](rendered/ISSA-QMUL)
 - [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
-- [ISSA Townhall](rendered/ISSA-townhall)
+- [ISSA Townhall 2025](rendered/ISSA-townhall)
 
 ### ECTOCINEMA
 
