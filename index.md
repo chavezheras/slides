@@ -33,10 +33,6 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 - [ISSA FRA Madrid 2025](rendered/ISSA-FRA-masterclass)
 - [ISSA Townhall 2025](rendered/ISSA-townhall)
 
-### ECTOCINEMA
-
-- [ECTOCINEMA](rendered/ECTOCINEMA)
-
 ---
 
 ## 🎓 Teaching
