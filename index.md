@@ -7,6 +7,7 @@ Presentations, lectures, and teaching materials by [Daniel Chávez Heras](https:
 
 ## 🎤 Talks & Public Lectures
 
+- [MoNetz and the poetics of pre-processing](rendered/MoNetz/) · Malmo, 2026
 - [Chronomorphē — Computational Models of Cinematic Time](rendered/chrono-morphe/) · Hong Kong, 2026
 - [Topologies of Time — Temporal Parts in High-Dimensional Space](rendered/Topologies-of-Time/) · London, 2026
 - [Computational Moving Images at Scale — HD+RSE 2025](rendered/CMIS) · London, 2025
